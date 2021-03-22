@@ -15,6 +15,8 @@ Also available on dank.serverbuilder!
 > https://github.com/SirDankenstien/dank.serverbuilder
 
 Optional [ not included / high end ]:
-- Motschen's Better Leaves > https://www.curseforge.com/minecraft/texture-packs/motschens-better-leaves ( this is better looking than jerm's ) ( fps drop with shaders )
+- Motschen's Better Leaves > https://www.curseforge.com/minecraft/texture-packs/motschens-better-leaves ( this is better looking than jerm's , fps drop with shaders )
 - Jerm's Better Leaves Add-on > https://www.curseforge.com/minecraft/texture-packs/better-leaves-add-on-2-0 ( fps drop with shaders )
-- Ore overhaul > https://www.curseforge.com/minecraft/texture-packs/minecraft-3d-ores ( glowing ores = bad )
+- Ore Overhaul > https://www.curseforge.com/minecraft/texture-packs/minecraft-3d-ores ( glowing ores = bad )
+- Audio Craft > https://www.curseforge.com/minecraft/texture-packs/audiocraft ( discontinued , huge file size , tons of new sound , some not desirable )
+- Enhanced Audio > https://www.curseforge.com/minecraft/texture-packs/enhanced-audio ( small file size, havent looked at this )
