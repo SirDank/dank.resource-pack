@@ -6,7 +6,7 @@ Contents:
 - Immersive Soundscapes > https://www.curseforge.com/minecraft/customization/immersive-sounding
 - Animated Mobs > https://resource-pack.com/animated-mobs-resource-pack-1-16-3/
 - Animated Entities > https://www.curseforge.com/minecraft/texture-packs/animated-entities
-- Dramatic Skys > https://www.curseforge.com/minecraft/texture-packs/dramatic-skys
+- Dramatic Skys [ for people that dont use shaders ] > https://www.curseforge.com/minecraft/texture-packs/dramatic-skys
 - Round Trees > https://www.curseforge.com/minecraft/texture-packs/round-trees-mc-vanilla-1-8-1-13
 - Motschen's Better Grass [ only sticks and stones ] > https://www.curseforge.com/minecraft/texture-packs/motschens-better-grass
 - Default 3D High [ only ores ] > https://beta.know2good.com/
