@@ -20,3 +20,5 @@ Optional [ not included / high end ]:
 - Ore Overhaul > https://www.curseforge.com/minecraft/texture-packs/minecraft-3d-ores ( glowing ores = bad )
 - Audio Craft > https://www.curseforge.com/minecraft/texture-packs/audiocraft ( discontinued , huge file size , tons of new sound , some not desirable )
 - Enhanced Audio > https://www.curseforge.com/minecraft/texture-packs/enhanced-audio ( small file size, havent looked at this )
+
+If you have good suggestions, drop the resource pack link :)
