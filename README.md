@@ -8,3 +8,6 @@ Contents:
 - Animated Entities > https://www.curseforge.com/minecraft/texture-packs/animated-entities
 - Dramatic Skys > https://www.curseforge.com/minecraft/texture-packs/dramatic-skys
 - Round Trees > https://www.curseforge.com/minecraft/texture-packs/round-trees-mc-vanilla-1-8-1-13
+
+Also available on dank.serverbuilder!
+> https://github.com/SirDankenstien/dank.serverbuilder
