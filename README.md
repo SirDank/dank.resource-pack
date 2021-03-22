@@ -13,3 +13,8 @@ Contents:
 
 Also available on dank.serverbuilder!
 > https://github.com/SirDankenstien/dank.serverbuilder
+
+Optional [ not included / high end ]:
+- Motschen's Better Leaves > https://www.curseforge.com/minecraft/texture-packs/motschens-better-leaves ( this is better looking than jerm's ) ( fps drop with shaders )
+- Jerm's Better Leaves Add-on > https://www.curseforge.com/minecraft/texture-packs/better-leaves-add-on-2-0 ( fps drop with shaders )
+- Ore overhaul > https://www.curseforge.com/minecraft/texture-packs/minecraft-3d-ores ( glowing ores = bad )
