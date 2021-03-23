@@ -1,5 +1,6 @@
 # dank.resourcepack
 Download > https://www.dropbox.com/s/izwq13i2c43thwk/dank.resourcepack.zip?dl=0
+The download link will remain the same, even after updates!
 
 <h1> Contents: </h1>
 <ul>
@@ -12,6 +13,8 @@ Download > https://www.dropbox.com/s/izwq13i2c43thwk/dank.resourcepack.zip?dl=0
 <li> Round Trees > https://www.curseforge.com/minecraft/texture-packs/round-trees-mc-vanilla-1-8-1-13 </li>
 <li> Motschen's Better Grass [ only sticks and stones ] > https://www.curseforge.com/minecraft/texture-packs/motschens-better-grass </li>
 <li> Default 3D High [ only ores ] > https://beta.know2good.com/ </li>
+<li> Complementary Resources > https://www.curseforge.com/minecraft/customization/complementary-shaders </li>
+<li> DaBaby Totem of Undying with sound x) </li>
 </ul>
 
 <h1> Also available on dank.serverbuilder! </h1>
