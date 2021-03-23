@@ -15,7 +15,7 @@ Download > https://www.dropbox.com/s/izwq13i2c43thwk/dank.resourcepack.zip?dl=0
 </ul>
 
 <h1> Also available on dank.serverbuilder! </h1>
-<li> > https://github.com/SirDankenstien/dank.serverbuilder </li>
+<li> https://github.com/SirDankenstien/dank.serverbuilder </li>
 
 <h1> Optional [ not included / high end ]: </h1>
 <ul>
