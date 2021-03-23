@@ -1,6 +1,6 @@
 # dank.resourcepack
 Download > https://www.dropbox.com/s/izwq13i2c43thwk/dank.resourcepack.zip?dl=0
-The download link will remain the same, even after updates!
+<li >The download link will remain the same, even after updates! </li>
 
 <h1> Contents: </h1>
 <ul>
