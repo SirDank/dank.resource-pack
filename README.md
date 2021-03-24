@@ -15,6 +15,7 @@ Download > https://www.dropbox.com/s/izwq13i2c43thwk/dank.resourcepack.zip?dl=0
 <li> Default 3D High [ only ores ] > https://beta.know2good.com/ </li>
 <li> Complementary Resources > https://www.curseforge.com/minecraft/customization/complementary-shaders </li>
 <li> DaBaby Totem of Undying with sound x) </li>
+<li> Better 3D [ except some mobs ] > https://www.curseforge.com/minecraft/texture-packs/better-3d </li>
 </ul>
 
 <h1> Also available on dank.serverbuilder! </h1>
