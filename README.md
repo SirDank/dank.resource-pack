@@ -14,10 +14,10 @@ Latest Download > https://www.dropbox.com/s/izwq13i2c43thwk/dank.resourcepack.zi
 <li> Motschen's Better Grass [ only sticks and stones ] > https://www.curseforge.com/minecraft/texture-packs/motschens-better-grass </li>
 <li> Default 3D High [ only ores ] > https://beta.know2good.com/ </li>
 <li> Complementary Resources > https://www.curseforge.com/minecraft/customization/complementary-shaders </li>
-<li> Update 1.1 </li>
+<h1> Update 1.1 </h1>
 <li> DaBaby Totem of Undying with sound x) </li>
 <li> Better 3D [ except some mobs ] > https://www.curseforge.com/minecraft/texture-packs/better-3d </li>
-<li> Update 1.2 {thanks to veltabex} </li>
+<h1> Update 1.2 {thanks to veltabex} </h1>
 <li> New Cave Ambience > https://www.planetminecraft.com/texture-pack/new-cave-ambience/ </li>
 <li> Shit Ton from > https://vanillatweaks.net/picker/resource-packs/ </li>
 <li> Round Trees Removed! { better performance } </li>
