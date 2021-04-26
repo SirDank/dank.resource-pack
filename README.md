@@ -1,6 +1,6 @@
 # dank.resourcepack
 Latest Download > https://www.dropbox.com/s/izwq13i2c43thwk/dank.resourcepack.zip?dl=0
-<li >The download link will remain the same, even after updates! </li>
+<li> The download link will remain the same, even after updates! </li>
 
 <h1> Contents: </h1>
 <ul>
@@ -28,7 +28,9 @@ Latest Download > https://www.dropbox.com/s/izwq13i2c43thwk/dank.resourcepack.zi
 </ul>
 
 <h1> Also available on dank.serverbuilder! </h1>
+<ul>
 <li> https://github.com/SirDankenstien/dank.serverbuilder </li>
+</ul>
 
 <h1> Optional [ not included / high end ]: </h1>
 <ul>
