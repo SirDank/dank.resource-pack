@@ -2,6 +2,8 @@
 Latest Download > https://www.dropbox.com/s/izwq13i2c43thwk/dank.resourcepack.zip?dl=0
 <li> The download link will remain the same, even after updates! </li>
 
+Short URL: http://bit.ly/dank-resourcepack
+
 <h1> Contents: </h1>
 <ul>
 <li> Minecraft music but { Slowed + Reverb } > Youtube </li>
