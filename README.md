@@ -27,6 +27,17 @@ Latest Download > https://www.dropbox.com/s/izwq13i2c43thwk/dank.resourcepack.zi
 <li> Shit Ton from > https://vanillatweaks.net/picker/resource-packs/ </li>
 <li> Round Trees Removed! { better performance } </li>
 </ul>
+<h1> Update 1.3 </h1>
+<ul>
+<li> Removed DaBaby Totem </li>
+<li> Sus Totem > https://www.planetminecraft.com/texture-pack/3d-sus-undying-totem/ </li>
+<li> Sand Tweaks > https://www.planetminecraft.com/texture-pack/sand-tweaks-forevervanilla/ </li>
+<li> GUI and Loading Screens > https://www.planetminecraft.com/texture-pack/gui-and-loading-screens/ </li>
+<li> Boat remodels with sails > https://www.planetminecraft.com/texture-pack/boats-remodels-with-sails/ </li>
+<li> Livelihood (V. 0.3) [ only mobs & biomes ] > https://www.planetminecraft.com/texture-pack/livelihood-v-0-1/ </li>
+<li> Ocean Plus [ kelp & koi ] > https://www.planetminecraft.com/texture-pack/ocean-plus/ </li>
+<li> Pablo's Emissive Mobs [ except skeleton & wither skeleton ] > https://www.curseforge.com/minecraft/texture-packs/pablos-emissive-mobs </li>
+</ul>
 
 <h1> Also available on dank.serverbuilder! </h1>
 <ul>
