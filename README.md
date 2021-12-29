@@ -1,5 +1,5 @@
 # dank.resourcepack
-Latest Download > https://www.dropbox.com/s/izwq13i2c43thwk/dank.resourcepack.zip?dl=1
+Latest Download > https://github.com/SirDankenstien/dank.resourcepack/raw/main/dank.resourcepack.zip
 <li> The download link will remain the same, even after updates! </li>
 <li> Short URL: http://bit.ly/dank-resourcepack </li>
 
