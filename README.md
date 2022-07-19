@@ -1,7 +1,7 @@
 # dank.resourcepack
-Latest Download > https://github.com/SirDankenstien/dank.resourcepack/raw/main/dank.resourcepack.zip
+Latest Download > https://github.com/SirDank/dank.resourcepack/raw/main/dank.resourcepack.zip
 <li> The download link will remain the same, even after updates! </li>
-<li> Short URL: http://bit.ly/dank-resourcepack </li>
+<li> Short URL: https://bit.ly/dank-resourcepack-latest </li>
 
 <h1> Update 2.0 | RESET </h1>
 <ul>
@@ -16,7 +16,7 @@ Latest Download > https://github.com/SirDankenstien/dank.resourcepack/raw/main/d
 
 <h1> Also available on dank.serverbuilder! </h1>
 <ul>
-<li> https://github.com/SirDankenstien/dank.serverbuilder </li>
+<li> https://github.com/SirDank/dank.serverbuilder </li>
 </ul>
 
 <h1> If you have good suggestions, drop the resource pack link :) </h1>
