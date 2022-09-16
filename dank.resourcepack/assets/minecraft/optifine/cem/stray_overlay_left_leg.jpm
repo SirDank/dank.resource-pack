@@ -1,0 +1,16 @@
+{
+	"texture": "textures/entity/skeleton/stray_clothing",
+	"textureSize": [64, 32],
+	"credit": "Made with Blockbench | Created_by_FreshLX_for_Fresh_Animations",
+	"boxes": [
+		{
+			"coordinates": [-2.2, -0.2, -2.2, 4.4, 12.4, 4.4],
+			"uvNorth": [8, 20, 4, 32],
+			"uvEast": [12, 20, 8, 32],
+			"uvSouth": [16, 20, 12, 32],
+			"uvWest": [4, 20, 0, 32],
+			"uvUp": [4, 20, 8, 16],
+			"uvDown": [8, 16, 12, 20]
+		}
+	]
+}
