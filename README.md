@@ -16,7 +16,7 @@ Latest Download > https://github.com/SirDank/dank.resourcepack/raw/main/dank.res
 
 <h1> Also available on dank.serverbuilder! </h1>
 <ul>
-<li> https://github.com/SirDank/dank.serverbuilder </li>
+<li> https://github.com/SirDank/dank.tool </li>
 </ul>
 
 <h1> If you have good suggestions, drop the resource pack link :) </h1>
