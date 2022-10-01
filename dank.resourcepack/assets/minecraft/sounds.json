@@ -1,0 +1,99 @@
+{
+  "block.stone.break": {
+    "sounds": [
+      "digbreak/stone1",
+      "digbreak/stone2",
+      "digbreak/stone3",
+      "digbreak/stone4"
+    ],
+    "replace": true, "subtitle": "subtitles.block.generic.break"
+  },
+  "block.stone.hit": {
+    "sounds": [
+      "dighit/stone1",
+      "dighit/stone2",
+      "dighit/stone3",
+      "dighit/stone4",
+      "dighit/stone5",
+      "dighit/stone6",
+      "dighit/stone7",
+      "dighit/stone8"
+    ],
+    "replace": true, "subtitle": "subtitles.block.generic.hit"
+  },
+    "block.gravel.break": {
+    "sounds": [
+      "digbreak/gravel1",
+      "digbreak/gravel2",
+      "digbreak/gravel3",
+      "digbreak/gravel4"
+    ],
+    "replace": true, "subtitle": "subtitles.block.generic.break"
+  },
+    "block.glass.step": {
+    "sounds": [
+      "step/glass1",
+      "step/glass2",
+      "step/glass3",
+      "step/glass4"
+    ],
+    "replace": true, "subtitle": "subtitles.block.generic.footsteps"
+  },
+	"block.glass.place": {
+    "sounds": [
+      "dig/glass1",
+      "dig/glass2",
+      "dig/glass3",
+      "dig/glass4"
+    ],
+    "replace": true, "subtitle": "subtitles.block.generic.place"
+  },
+	"block.glass.hit": {
+    "sounds": [
+      "dighit/glass1",
+      "dighit/glass2",
+      "dighit/glass3",
+      "dighit/glass4"
+    ],
+    "replace": true, "subtitle": "subtitles.block.generic.hit"
+  },
+	"block.crop.break": {
+    "sounds": [
+      "item/plant/harvest1",
+      "item/plant/harvest2",
+      "item/plant/harvest3",
+      "item/plant/harvest4"
+    ],
+    "replace": true, "subtitle": "subtitles.block.generic.break"
+  },
+	"block.vine.place": {
+    "sounds": [
+      "block/vine/climb1",
+      "block/vine/climb2",
+      "block/vine/climb3",
+	  "block/vine/climb4",
+      "block/vine/climb5"
+    ],
+    "replace": true, "subtitle": "subtitles.block.generic.place"
+  },
+	"block.vine.hit": {
+    "sounds": [
+      "block/vine/climb1",
+      "block/vine/climb2",
+      "block/vine/climb3",
+	  "block/vine/climb4",
+      "block/vine/climb5"
+    ],
+    "replace": true, "subtitle": "subtitles.block.generic.hit"
+  },
+	"block.vine.break": {
+    "sounds": [
+      "block/vine/tear1",
+      "block/vine/tear2",
+      "block/vine/tear3",
+	  "block/vine/tear4",
+      "block/vine/tear5"
+    ],
+    "replace": true, "subtitle": "subtitles.block.generic.break"
+  }
+}
