@@ -1,3 +1,5 @@
+# THIS PROJECT IS CURRENTLY BEING RE-WORKED!
+
 <p align="center">
   <b>~ Visits ~</b><br><br>
   <img src="https://profile-counter.glitch.me/dank.resourcepack/count.svg">
