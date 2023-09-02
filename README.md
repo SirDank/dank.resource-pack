@@ -1,9 +1,19 @@
-# THIS PROJECT IS CURRENTLY BEING RE-WORKED!
-
 <p align="center">
   <b>~ Visits ~</b><br><br>
   <img src="https://profile-counter.glitch.me/dank.resourcepack/count.svg">
 </p>
+
+# 🚨 SirDank's dank.resource-pack 🚨
+
+- All credits go to the original creators of the resource packs.
+- This is just an all-in-one resource pack.
+
+## ♦️ Currently Available ♦️
+
+- [x] Minecraft music ( Slowed + Reverb ) > Youtube
+- [x] [HardTop Vanillaccurate Pack](https://vanillaccurate.space/)
+
+# THIS PROJECT IS CURRENTLY BEING RE-WORKED!- IGNORE THE REST OF THIS README
 
 # dank.resourcepack
 - Latest Download > https://github.com/SirDank/dank.resourcepack/raw/main/dank.resourcepack.zip
