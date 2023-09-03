@@ -97,6 +97,7 @@ def cleanup():
     paths = [
         "readme.txt",
         "Changelog.txt",
+        "credits.txt",
     ]
     
     for _ in paths:
