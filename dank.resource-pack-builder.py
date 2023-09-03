@@ -71,9 +71,11 @@ def download_zips():
     os.chdir("..")
 
 def extract_zips():
-    for zip_file in os.listdir("downloads"):
-        with zipfile.ZipFile(os.path.join("downloads", zip_file), "r") as zip_ref:
-            zip_ref.extractall("dank.resource-pack")
+    
+    for dir in ["downloads", "github"]:
+        for zip_file in os.listdir(dir):
+            with zipfile.ZipFile(os.path.join(dir, zip_file), "r") as zip_ref:
+                zip_ref.extractall("dank.resource-pack")
 
 def copy_and_overwrite(src, dst):
     for item in os.listdir(src):
@@ -94,6 +96,7 @@ def cleanup():
     
     paths = [
         "readme.txt",
+        "Changelog.txt",
     ]
     
     for _ in paths:

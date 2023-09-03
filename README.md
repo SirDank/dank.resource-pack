@@ -8,10 +8,11 @@
 - All credits go to the original creators of the resource packs.
 - This is just an all-in-one resource pack.
 
-## ♦️ Currently Available ♦️
+## ♦️ Currently Included ♦️
 
 - [x] Minecraft music ( Slowed + Reverb ) > Youtube
-- [x] [HardTop Vanillaccurate Pack](https://vanillaccurate.space/)
+- [x] [HardTop Vanillaccurate Pack x32](https://vanillaccurate.space/)
+- [x] [Among Us Undying Totem](https://www.planetminecraft.com/texture-pack/3d-sus-undying-totem/)
 
 # THIS PROJECT IS CURRENTLY BEING RE-WORKED!- IGNORE THE REST OF THIS README
 
@@ -25,7 +26,6 @@
 - Motschen's Better Leaves > https://www.curseforge.com/minecraft/texture-packs/motschens-better-leaves
 - Dramatic Skys > https://www.curseforge.com/minecraft/texture-packs/dramatic-skys
 - Enhanced Audio > https://www.curseforge.com/minecraft/texture-packs/enhanced-audio
-- Sus Totem > https://www.planetminecraft.com/texture-pack/3d-sus-undying-totem/
 - GUI and Loading Screens > https://www.planetminecraft.com/texture-pack/gui-and-loading-screens/
 - Pablo's Emissive Mobs [ except skeleton & wither skeleton ] > https://www.curseforge.com/minecraft/texture-packs/pablos-emissive-mobs
 - [REMOVED] Fresh Animations > https://www.curseforge.com/minecraft/texture-packs/fresh-animations
