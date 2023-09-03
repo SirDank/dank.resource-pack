@@ -1,0 +1,4 @@
+github/3_Enhanced+Audio+Ambience+r1_edited.zip
+- delete step folder
+- edit sounds.json, remove all lines related to "step"
+- fixes inconsistent step sound issue

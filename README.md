@@ -13,6 +13,8 @@
 - [x] Minecraft music ( Slowed + Reverb ) > Youtube
 - [x] [HardTop Vanillaccurate Pack x32](https://vanillaccurate.space/)
 - [x] [Among Us Undying Totem](https://www.planetminecraft.com/texture-pack/3d-sus-undying-totem/)
+- [x] [Enhanced Audio (Sound Pack)](https://www.curseforge.com/minecraft/texture-packs/enhanced-audio)
+- [x] [Enhanced Audio: Ambience (Ambient Sound Pack)](https://www.curseforge.com/minecraft/texture-packs/enhanced-audio-ambience)
 
 # THIS PROJECT IS CURRENTLY BEING RE-WORKED!- IGNORE THE REST OF THIS README
 
@@ -25,7 +27,6 @@
 - Minecraft music but { Slowed + Reverb } > Youtube
 - Motschen's Better Leaves > https://www.curseforge.com/minecraft/texture-packs/motschens-better-leaves
 - Dramatic Skys > https://www.curseforge.com/minecraft/texture-packs/dramatic-skys
-- Enhanced Audio > https://www.curseforge.com/minecraft/texture-packs/enhanced-audio
 - GUI and Loading Screens > https://www.planetminecraft.com/texture-pack/gui-and-loading-screens/
 - Pablo's Emissive Mobs [ except skeleton & wither skeleton ] > https://www.curseforge.com/minecraft/texture-packs/pablos-emissive-mobs
 - [REMOVED] Fresh Animations > https://www.curseforge.com/minecraft/texture-packs/fresh-animations

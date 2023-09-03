@@ -73,7 +73,7 @@ def download_zips():
 def extract_zips():
     
     for dir in ["downloads", "github"]:
-        for zip_file in os.listdir(dir):
+        for zip_file in sorted(os.listdir(dir)):
             with zipfile.ZipFile(os.path.join(dir, zip_file), "r") as zip_ref:
                 zip_ref.extractall("dank.resource-pack")
 
