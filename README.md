@@ -15,9 +15,11 @@
 - [Enhanced Audio (Sound Pack)](https://www.curseforge.com/minecraft/texture-packs/enhanced-audio)
 - [Enhanced Audio: Ambience (Ambient Sound Pack)](https://www.curseforge.com/minecraft/texture-packs/enhanced-audio-ambience)
 - [Among Us Undying Totem](https://www.planetminecraft.com/texture-pack/3d-sus-undying-totem/)
-- [Icons](http://www.curseforge.com/minecraft/texture-packs/icons)
+- [Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves)
+- [Icons](https://modrinth.com/resourcepack/icons)
 - [Icons Addon](https://www.curseforge.com/minecraft/texture-packs/advertisement-removal-icons-addon-resourcepack)
-- [Enhanced Boss Bars](https://www.curseforge.com/minecraft/texture-packs/enhanced-boss-bars)
+- [Cubic Sun & Moon](https://modrinth.com/resourcepack/cubic-sun-moon)
+- [Enhanced Boss Bars](https://modrinth.com/resourcepack/enhanced-boss-bars)
 
 # THIS PROJECT IS CURRENTLY BEING RE-WORKED!- IGNORE THE REST OF THIS README
 

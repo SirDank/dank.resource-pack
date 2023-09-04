@@ -117,7 +117,7 @@ def copy_and_overwrite(src, dst):
             shutil.copy(src_item, dst_item)
 
 def extract_zips():
-    
+
     for dir in ["downloads", "github"]:
         for zip_file in sorted(os.listdir(dir)):
             if os.path.isdir("tmp"):
@@ -134,7 +134,9 @@ def cleanup():
         "readme.txt",
         "Changelog.txt",
         "credits.txt",
-        "assets/minecraft/texts/splashes.txt",
+        #"assets/minecraft/texts/splashes.txt",
+        "LICENSE",
+        "LICENSE.txt"
     ]
     
     for path in paths:
