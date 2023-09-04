@@ -7,8 +7,10 @@
 
 - All credits go to the original creators of the resource packs.
 - This is just an all-in-one resource pack.
+- The base pack does not require Optifine
+- The addon pack requires Optifine
 
-## ♦️ Currently Included ♦️
+## ♦️ Base Pack Includes ♦️
 
 - Minecraft music ( Slowed + Reverb ) > Youtube
 - [HardTop Vanillaccurate Pack x32](https://vanillaccurate.space/)
@@ -20,6 +22,14 @@
 - [Icons Addon](https://www.curseforge.com/minecraft/texture-packs/advertisement-removal-icons-addon-resourcepack)
 - [Cubic Sun & Moon](https://modrinth.com/resourcepack/cubic-sun-moon)
 - [Enhanced Boss Bars](https://modrinth.com/resourcepack/enhanced-boss-bars)
+
+## ♦️ Addon Pack Includes ♦️
+
+- Coming Soon!
+
+## ♦️ Direct Download ♦️
+
+- Base pack: [dank.resource-pack.zip](https://github.com/SirDank/dank.resource-pack/raw/main/dank.resource-pack.zip)
 
 # THIS PROJECT IS CURRENTLY BEING RE-WORKED!- IGNORE THE REST OF THIS README
 
