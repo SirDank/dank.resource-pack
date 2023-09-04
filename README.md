@@ -17,6 +17,7 @@
 - [Among Us Undying Totem](https://www.planetminecraft.com/texture-pack/3d-sus-undying-totem/)
 - [Icons](http://www.curseforge.com/minecraft/texture-packs/icons)
 - [Icons Addon](https://www.curseforge.com/minecraft/texture-packs/advertisement-removal-icons-addon-resourcepack)
+- [Enhanced Boss Bars](https://www.curseforge.com/minecraft/texture-packs/enhanced-boss-bars)
 
 # THIS PROJECT IS CURRENTLY BEING RE-WORKED!- IGNORE THE REST OF THIS README
 

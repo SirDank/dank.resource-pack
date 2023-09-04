@@ -1,8 +1,10 @@
 import os
+import json
 import time
 import requests
 import zipfile
 import shutil
+import pretty_errors
 from rich.live import Live
 from rich.panel import Panel
 from rich.table import Table
@@ -13,7 +15,7 @@ def prepare():
     if not os.path.isdir("downloads"):
         os.mkdir("downloads")
 
-    if os.path.exists("dank.resource-pack.zip"):
+    if os.path.isfile("dank.resource-pack.zip"):
         os.remove("dank.resource-pack.zip")
 
     if os.path.isdir("dank.resource-pack"):
@@ -70,12 +72,32 @@ def download_zips():
     
     os.chdir("..")
 
-def extract_zips():
+def merge_dicts(dict1, dict2):
+    """
+    Recursively merge two dictionaries.
+    """
+    for key, value in dict2.items():
+        if key in dict1 and isinstance(dict1[key], dict) and isinstance(value, dict):
+            dict1[key] = merge_dicts(dict1[key], value)
+        elif key in dict1 and isinstance(dict1[key], list) and isinstance(value, list):
+            dict1[key].extend(value)
+        else:
+            dict1[key] = value
+    return dict1
+
+def merge_json_files(file1_path, file2_path):
+
+    file1_data = open(file1_path, 'r', encoding='utf-8').read().splitlines()
+    file2_data = open(file2_path, 'r', encoding='utf-8').read().splitlines()
     
-    for dir in ["downloads", "github"]:
-        for zip_file in sorted(os.listdir(dir)):
-            with zipfile.ZipFile(os.path.join(dir, zip_file), "r") as zip_ref:
-                zip_ref.extractall("dank.resource-pack")
+    file1_data = "\n".join(line for line in file1_data if not line.strip().startswith("//"))
+    file2_data = "\n".join(line for line in file2_data if not line.strip().startswith("//"))
+    
+    file1_data = json.loads(file1_data)
+    file2_data = json.loads(file2_data)
+    
+    merged_data = merge_dicts(file1_data, file2_data)
+    return merged_data
 
 def copy_and_overwrite(src, dst):
     for item in os.listdir(src):
@@ -83,12 +105,26 @@ def copy_and_overwrite(src, dst):
         dst_item = os.path.join(dst, item)
 
         if os.path.isdir(src_item):
-            try:
-                shutil.copytree(src_item, dst_item, symlinks=True, ignore_dangling_symlinks=True)
-            except FileExistsError:
-                copy_and_overwrite(src_item, dst_item)  # Recursively copy and overwrite contents of subdirectories
+            if not os.path.isdir(dst_item):
+                os.makedirs(dst_item)
+            copy_and_overwrite(src_item, dst_item) 
         else:
+            if dst_item.endswith(".json"):
+                if os.path.isfile(dst_item):
+                    combined_file_data = json.dumps(merge_json_files(src_item, dst_item), indent=4)
+                    open(dst_item, "w").write(combined_file_data)
+                    continue
             shutil.copy(src_item, dst_item)
+
+def extract_zips():
+    
+    for dir in ["downloads", "github"]:
+        for zip_file in sorted(os.listdir(dir)):
+            if os.path.isdir("tmp"):
+                shutil.rmtree("tmp")
+            with zipfile.ZipFile(os.path.join(dir, zip_file), "r") as zip_ref:
+                zip_ref.extractall("tmp")
+            copy_and_overwrite("tmp", "dank.resource-pack")
 
 def cleanup():
     
@@ -98,13 +134,18 @@ def cleanup():
         "readme.txt",
         "Changelog.txt",
         "credits.txt",
+        "assets/minecraft/texts/splashes.txt",
     ]
     
-    for _ in paths:
-        if os.path.isfile(_):
-            os.remove(_)
-        elif os.path.isdir(_):
-            shutil.rmtree(_)
+    for path in paths:
+        if os.path.exists(path):
+            try:
+                if os.path.isfile(path):
+                    os.remove(path)
+                elif os.path.isdir(path):
+                    shutil.rmtree(path)
+            except Exception as e:
+                print(clr(f"Failed to remove {path}: {e}"))
 
     os.chdir("..")
 
@@ -149,11 +190,11 @@ if __name__ == "__main__":
 
     print(clr(f"\n  > Preparing..."))
     prepare()
-    print(clr(f"\n  > Downloading Zips..."))
+    print(clr(f"\n  > Checking Downloaded Zips..."))
     download_zips()
     print(clr(f"\n  > Extracting Zips..."))
     extract_zips()
-    print(clr(f"\n  > Copying and Overwriting..."))
+    print(clr(f"\n  > Copying and Overwriting Base..."))
     copy_and_overwrite("base", "dank.resource-pack")
     print(clr(f"\n  > Cleaning Up..."))
     cleanup()
