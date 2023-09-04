@@ -118,7 +118,7 @@ def copy_and_overwrite(src, dst):
 
 def extract_zips():
 
-    for dir in ["downloads", "github"]:
+    for dir in ["downloads", "github", "github_ordered"]:
         for zip_file in sorted(os.listdir(dir)):
             if os.path.isdir("tmp"):
                 shutil.rmtree("tmp")
@@ -136,7 +136,7 @@ def cleanup():
         "credits.txt",
         #"assets/minecraft/texts/splashes.txt",
         "LICENSE",
-        "LICENSE.txt"
+        "LICENSE.txt",
     ]
     
     for path in paths:
@@ -150,6 +150,8 @@ def cleanup():
                 print(clr(f"Failed to remove {path}: {e}"))
 
     os.chdir("..")
+    
+    shutil.rmtree("tmp")
 
 def compress_to_zip():
 
