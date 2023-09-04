@@ -7,8 +7,8 @@
 
 - All credits go to the original creators of the resource packs.
 - This is just an all-in-one resource pack.
-- The base pack does not require Optifine
-- The addon pack requires Optifine
+- The base pack does not require Optifine.
+- The addon pack requires Optifine.
 
 ## ♦️ Base Pack Includes ♦️
 
