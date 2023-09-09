@@ -34,6 +34,7 @@
 ## ♦️ Direct Download ♦️
 
 - Base pack: [dank.resource-pack.zip](https://github.com/SirDank/dank.resource-pack/raw/main/dank.resource-pack.zip)
+- Addon pack: Coming Soon!
 
 # THIS PROJECT IS CURRENTLY BEING RE-WORKED!- IGNORE THE REST OF THIS README
 
