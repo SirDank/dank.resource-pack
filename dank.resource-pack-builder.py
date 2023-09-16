@@ -43,7 +43,7 @@ def download_zips():
     to_download_urls = []
     to_download_file_names = []
 
-    response = session.get("https://vanillaccurate.space/2021/07/17/vanillaccurate/#download").content.decode().splitlines()
+    '''response = session.get("https://vanillaccurate.space/2021/07/17/vanillaccurate/#download").content.decode().splitlines()
     for line in response:
         if "hardtop-vanillaccurate-32x" in line:
             url = line.split('href="')[2].split('"')[0]
@@ -54,7 +54,7 @@ def download_zips():
                         os.remove(existing_file)
                 to_download_urls.append(url)
                 to_download_file_names.append(zip_name)
-            break
+            break'''
 
     if to_download_urls:
         print(clr("\n  > Starting Multiple Downloads... [ this might take a few minutes ]\n"))
