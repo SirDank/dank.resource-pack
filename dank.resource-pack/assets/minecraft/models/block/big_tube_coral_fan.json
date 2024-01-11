@@ -1,0 +1,7 @@
+{
+  "parent": "block/big_coral_fan",
+  "textures": {
+    "bushy": "block/tube_fan_bushy",
+    "fan": "block/tube_coral_fan"
+  }
+}

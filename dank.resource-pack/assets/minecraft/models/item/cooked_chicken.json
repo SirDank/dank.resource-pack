@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+	"particle": "minecraft:item_particle/cooked_chicken",  
+    "layer0": "minecraft:item/cooked_chicken"
+  }
+}

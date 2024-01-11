@@ -1,0 +1,6 @@
+{
+  "parent": "block/tall_cross",
+  "textures": {
+    "tall_plant": "block/dead_tall_tube_coral2"
+  }
+}

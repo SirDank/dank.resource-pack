@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "":[
+      {"model": "minecraft:block/big_brain_coral_fan", "weight": 1},
+      {"model": "minecraft:block/brain_coral_fan",  "weight": 2}
+     ]
+  }
+}

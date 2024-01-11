@@ -1,0 +1,6 @@
+{
+  "parent": "block/bush_fixed",
+  "textures": {
+    "bushy": "block/dead_brain_coral_bushy"
+  }
+}

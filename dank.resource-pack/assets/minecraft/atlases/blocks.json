@@ -1,0 +1,85 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "block",
+            "prefix": "block/"
+        },
+        {
+            "type": "directory",
+            "source": "block_particle",
+            "prefix": "block_particle/"
+        },		
+        {
+            "type": "directory",
+            "source": "item",
+            "prefix": "item/"
+        },
+        {
+            "type": "directory",
+            "source": "item_particle",
+            "prefix": "item_particle/"
+        },		
+        {
+            "type": "directory",
+            "source": "entity/conduit",
+            "prefix": "entity/conduit/"
+        },
+        {
+            "type": "single",
+            "resource": "entity/bell/bell_body"
+        },
+        {
+            "type": "single",
+            "resource": "entity/enchanting_table_book"
+        },
+		{
+            "type": "single",
+            "resource": "entity/shield_base_nopattern"
+        },
+        {
+            "type": "single",
+            "resource": "entity/signs/hanging/acacia"
+        },
+        {
+            "type": "single",
+            "resource": "entity/signs/hanging/bamboo"
+        },
+        {
+            "type": "single",
+            "resource": "entity/signs/hanging/birch"
+        },
+        {
+            "type": "single",
+            "resource": "entity/signs/hanging/crimson"
+        },
+        {
+            "type": "single",
+            "resource": "entity/signs/hanging/dark_oak"
+        },
+        {
+            "type": "single",
+            "resource": "entity/signs/hanging/jungle"
+        },
+        {
+            "type": "single",
+            "resource": "entity/signs/hanging/mangrove"
+        },
+        {
+            "type": "single",
+            "resource": "entity/signs/hanging/oak"
+        },
+        {
+            "type": "single",
+            "resource": "entity/signs/hanging/spruce"
+        },
+        {
+            "type": "single",
+            "resource": "entity/signs/hanging/warped"
+        },
+        {
+            "type": "single",
+            "resource": "entity/chest/normal"
+        }		
+    ]
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+        {"model": "block/dead_tall_brain_coral", "weight": 1 },
+        {"model": "block/dead_brain_coral", "weight": 2 },
+        {"model": "block/dead_tall_brain_coral2", "weight": 2 },
+        {"model": "block/dead_brain_coral_bush", "weight": 1 }
+    ]
+  }
+}

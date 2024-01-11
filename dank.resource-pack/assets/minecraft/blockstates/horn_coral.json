@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+        {"model": "block/tall_horn_coral", "weight": 1 },
+        {"model": "block/horn_coral", "weight": 2 },
+        {"model": "block/tall_horn_coral2", "weight": 2 },
+        {"model": "block/horn_coral_bush", "weight": 1 }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "textures": [
+    "minecraft:firework_spark_0_1",   
+    "minecraft:firework_spark_1_1",
+    "minecraft:firework_spark_2_1", 
+    "minecraft:firework_spark_3_1",
+    "minecraft:firework_spark_4_1",
+    "minecraft:firework_spark_5_1",
+    "minecraft:firework_spark_6_1", 
+    "minecraft:firework_spark_7_1",    
+    "minecraft:firework_spark_7",
+    "minecraft:firework_spark_6",
+    "minecraft:firework_spark_5",
+    "minecraft:firework_spark_4",
+    "minecraft:firework_spark_3",
+    "minecraft:firework_spark_2",
+    "minecraft:firework_spark_1",
+    "minecraft:firework_spark_0"
+  ]
+}

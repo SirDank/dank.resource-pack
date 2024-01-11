@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+	"particle": "minecraft:item_particle/chorus_fruit",  
+    "layer0": "minecraft:item/chorus_fruit"
+  }
+}

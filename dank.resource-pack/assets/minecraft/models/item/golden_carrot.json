@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+	"particle": "minecraft:item_particle/golden_carrot",    
+    "layer0": "minecraft:item/golden_carrot"
+  }
+}

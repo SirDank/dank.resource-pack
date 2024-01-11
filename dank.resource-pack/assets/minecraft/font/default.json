@@ -1,0 +1,2324 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/raid.png",
+            "ascent": 13,
+            "height": 52,
+            "chars": [
+                "\ue903"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ferrous.png",
+            "ascent": 13,
+            "height": 52,
+            "chars": [
+                "\ue904"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/frostmaw.png",
+            "ascent": 13,
+            "height": 52,
+            "chars": [
+                "\ue905"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/wither.png",
+            "ascent": 13,
+            "height": 52,
+            "chars": [
+                "\ue906"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/enderdragon.png",
+            "ascent": 13,
+            "height": 52,
+            "chars": [
+                "\ue907"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ignis.png",
+            "ascent": 18,
+            "height": 64,
+            "chars": [
+                "\ue908"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/voidworm.png",
+            "ascent": 18,
+            "height": 64,
+            "chars": [
+                "\ue909"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/swampjaw.png",
+            "ascent": 13,
+            "height": 52,
+            "chars": [
+                "\ue910"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/witherstorm.png",
+            "ascent": 18,
+            "height": 64,
+            "chars": [
+                "\ue911"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/bellringer.png",
+            "ascent": 13,
+            "height": 52,
+            "chars": [
+                "\ue912"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:menu/main_menu.png",
+            "ascent": 13,
+            "height": 20,
+            "chars": [
+                "\udb80\udc00\udb80\udc01\udb80\udc02\udb80\udc03\udb80\udc04"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:menu/options.png",
+            "ascent": 13,
+            "height": 20,
+            "chars": [
+                "\udb80\udc08\udb80\udc09\udb80\udc0a\udb80\udc0b\udb80\udc0c\udb80\udc0d\udb80\udc0e\udb80\udc0f\udb80\udc10\udb80\udc11\udb80\udc12\udb80\udc13"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:menu/skin_customization.png",
+            "ascent": 13,
+            "height": 20,
+            "chars": [
+                "\udb80\udc18\udb80\udc19\udb80\udc1a\udb80\udc1b\udb80\udc1c\udb80\udc1d\udb80\udc1e\udb80\udc1f\udb80\udc20\udb80\udc21\udb80\udc22"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:menu/online_options.png",
+            "ascent": 13,
+            "height": 20,
+            "chars": [
+                "\udb80\udc28\udb80\udc29"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:menu/skin_customization.png",
+            "ascent": 13,
+            "height": 20,
+            "chars": [
+                "\udb80\udc2a\udb80\udc2b\udb80\udc2c\udb80\udc2d\udb80\udc2e\udb80\udc2f\udb80\udc30\udb80\udc31\udb80\udc32\udb80\udc33\udb80\udc34"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:menu/music_sound_options.png",
+            "ascent": 13,
+            "height": 20,
+            "chars": [
+                "\udb80\udc3a\udb80\udc3b\udb80\udc3c\udb80\udc3d\udb80\udc3e\udb80\udc3f\udb80\udc40\udb80\udc41\udb80\udc42\udb80\udc43\udb80\udc44\udb80\udc45\udb80\udc46"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:menu/video_settings.png",
+            "ascent": 13,
+            "height": 20,
+            "chars": [
+                "\udb80\udc48\udb80\udc49\udb80\udc4a\udb80\udc4b\udb80\udc4c\udb80\udc4d\udb80\udc4e\udb80\udc4f\udb80\udc50\udb80\udc51\udb80\udc52\udb80\udc53",
+                "\udb80\udc54\udb80\udc55\udb80\udc56\udb80\udc57\udb80\udc58\udb80\udc59\udb80\udc5a\udb80\udc5b\udb80\udc5c\udb80\udc5d\udb80\udc5e\udb80\udc5f",
+                "\udb80\udc60\udb80\udc61\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:menu/controls.png",
+            "ascent": 13,
+            "height": 20,
+            "chars": [
+                "\udb80\udc70\udb80\udc71"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:menu/key_binds.png",
+            "ascent": 13,
+            "height": 20,
+            "chars": [
+                "\udb80\udc72\udb80\udc73\udb80\udc74\udb80\udc75\udb80\udc76\udb80\udc77\udb80\udc78"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:menu/chat_settings.png",
+            "ascent": 13,
+            "height": 20,
+            "chars": [
+                "\udb80\udc79\udb80\udc7a\udb80\udc7b\udb80\udc7c\udb80\udc7d\udb80\udc7e\udb80\udc7f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:menu/resource_packs.png",
+            "ascent": 13,
+            "height": 20,
+            "chars": [
+                "\udb80\udc80\udb80\udc81\udb80\udc82"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:menu/on_off.png",
+            "ascent": 13,
+            "height": 20,
+            "chars": [
+                "\udb80\udc23\udb80\udc24"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:menu/accessibility_settings.png",
+            "ascent": 13,
+            "height": 20,
+            "chars": [
+                "\udb80\udc35\udb80\udc36\udb80\udc37\udb80\udc38\udb80\udc39"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:menu/escape_menu.png",
+            "ascent": 13,
+            "height": 20,
+            "chars": [
+                "\udb80\udc83\udb80\udc84\udb80\udc85\udb80\udc86\udb80\udc87\udb80\udc88\udb80\udc89"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:menu/sleep.png",
+            "ascent": 13,
+            "height": 20,
+            "chars": [
+                "\udb80\udc47"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:menu/world_creation.png",
+            "ascent": 13,
+            "height": 20,
+            "chars": [
+                "\udb80\udc62\udb80\udc63\udb80\udc64\udb80\udc65\udb80\udc66\udb80\udc67\udb80\udc68\udb80\udc69\udb80\udc6a\u0000\u0000\u0000",
+                "\udb80\udc6b\udb80\udc6c\udb80\udc6d\udb80\udc6e\udb80\udc6f\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:menu/singleplayer.png",
+            "ascent": 13,
+            "height": 20,
+            "chars": [
+                "\udb80\udc14\udb80\udc15\udb80\udc16\udb80\udc17"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:menu/multiplayer.png",
+            "ascent": 13,
+            "height": 20,
+            "chars": [
+                "\udb80\udc05\udb80\udc06"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:menu/online_options.png",
+            "ascent": 13,
+            "height": 20,
+            "chars": [
+                "\udb80\udc07"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:menu/game_rules.png",
+            "ascent": 13,
+            "height": 20,
+            "chars": [
+                "\udb80\udc8a\udb80\udc8b\udb80\udc8c\udb80\udc8d\udb80\udc8e\udb80\udc8f\udb80\udc90"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:menu/gamemenulogo.png",
+            "ascent": 10,
+            "height": 50,
+            "chars": [
+                "\udb80\udc25"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/tooltip/attributes.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\udb80\udcfd\udb80\udcfe\udb80\udcff\udb80\udd00\udb80\udd01\udb80\udd02\udb80\udd03\udb80\udd04\udb80\udd05\udb80\udd06",
+                "\udb80\udd07\udb80\udd08\udb80\udd09\udb80\udd0a\udb80\udd0b\udb80\udd0c\udb80\udd0d\udb80\udd0e\udb80\udd0f\udb80\udd10"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/tooltip/pattern.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\udb80\udd45\udb80\udd46\udb80\udd47\udb80\udd48\udb80\udd49\udb80\udd4a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/tooltip/food.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\udb80\udd51\udb80\udd52\udb80\udd53\udb80\udd54",
+                "\udb80\udd55\udb80\udd56\udb80\udd57\udb80\udd58",
+                "\udb80\udd59\udb80\udd5a\udb80\udd5b\udb80\udd5c",
+                "\udb80\udd5d\udb80\udd5e\udb80\udd5f\udb80\udd60",
+                "\udb80\udd61\udb80\udd62\udb80\udd63\udb80\udd64",
+                "\udb80\udd65\udb80\udd66\udb80\udd67\udb80\udd68",
+                "\udb80\udd69\udb80\udd6a\udb80\udd6b\udb80\udd6c",
+                "\udb80\udd6d\udb80\udd6e\udb80\udd6f\udb80\udd70",
+                "\udb80\udd71\udb80\udd72\udb80\udd73\udb80\udd74",
+                "\udb80\udd75\udb80\udd76\udb80\udd77\udb80\udd78",
+                "\udb80\udd79\udb80\udd7a\udb80\udd7b\udb80\udd7c",
+                "\udb80\udd7d\udb80\udd7e\udb80\udd7f\udb80\udd80",
+                "\udb80\udd81\udb80\udd82\udb80\udd83\udb80\udd84",
+                "\udb80\udd85\udb80\udd86\udb80\udd87\udb80\udd88"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/tooltip/effects.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\udb80\udd89\udb80\udd8a\udb80\udd8b\udb80\udd8c\udb80\udd8d\udb80\udd8e\udb80\udd8f\udb80\udd90",
+                "\udb80\udd91\udb80\udd92\udb80\udd93\udb80\udd94\udb80\udd95\udb80\udd96\udb80\udd97\udb80\udd98",
+                "\udb80\udd99\udb80\udd9a\udb80\udd9b\udb80\udd9c\udb80\udd9d\udb80\udd9e\udb80\udd9f\udb80\udda0",
+                "\udb80\udda1\udb80\udda2\udb80\udda3\udb80\udda4\udb80\udda5\udb80\udda6\udb80\udda7\udb80\udda8",
+                "\udb80\udda9\udb80\uddaa\udb80\uddab\udb80\uddac\udb80\uddad\udb80\uddae\udb80\uddaf\udb80\uddb0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/music/discs.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\udb80\uddb1\udb80\uddb2\udb80\uddb3\udb80\uddb4\udb80\uddb5\udb80\uddb6\udb80\uddb7",
+                "\udb80\uddb8\udb80\uddb9\udb80\uddba\udb80\uddbb\udb80\uddbc\udb80\uddbd\udb80\uddbe",
+                "\udb80\uddbf\udb80\uddc0\udb80\uddc1\udb80\uddc2\udb80\uddc3\udb80\uddc4\udb80\uddc5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:gui/item_groups.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "\udb80\uddc6\udb80\uddc7\udb80\uddc8\udb80\uddc9\udb80\uddca\udb80\uddcb\udb80\uddcc",
+                "\udb80\uddcd\udb80\uddce\udb80\uddcf\udb80\uddd0\udb80\uddd1\udb80\uddd2\udb80\uddd3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:splash/caelesti.png",
+            "ascent": 12,
+            "height": 21,
+            "chars": [
+                "\udb80\uddd8",
+                "\udb80\uddd9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:splash/splash.png",
+            "ascent": 13,
+            "height": 16,
+            "chars": [
+                "\udb80\uddda"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:splash/sus.png",
+            "ascent": 13,
+            "height": 16,
+            "chars": [
+                "\udb80\udddb"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:splash/pride.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": [
+                "\udb80\udddc\udb80\udddd\udb80\uddde\udb80\udddf\udb80\udde0",
+                "\udb80\udde1\udb80\udde2\udb80\udde3\udb80\udde4\udb80\udde5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:splash/king.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": [
+                "\udb80\udde6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:splash/blockstates.png",
+            "ascent": 16,
+            "height": 36,
+            "chars": [
+                "\udb81\udc05"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:splash/flowerpots.png",
+            "ascent": 16,
+            "height": 30,
+            "chars": [
+                "\udb81\udc06"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:splash/icons.png",
+            "ascent": 16,
+            "height": 24,
+            "chars": [
+                "\udb81\udc07"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:splash/iconsdarkmode.png",
+            "ascent": 16,
+            "height": 45,
+            "chars": [
+                "\udb81\udc08"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:splash/guides.png",
+            "ascent": 16,
+            "height": 18,
+            "chars": [
+                "\udb81\udc09"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:splash/guidesdarkmode.png",
+            "ascent": 16,
+            "height": 42,
+            "chars": [
+                "\udb81\udc0a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:splash/particles.png",
+            "ascent": 16,
+            "height": 18,
+            "chars": [
+                "\udb81\udc0b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/firework/dye.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\udb80\uddec\udb80\udded\udb80\uddee\udb80\uddef",
+                "\udb80\uddf0\udb80\uddf1\udb80\uddf2\udb80\uddf3",
+                "\udb80\uddf4\udb80\uddf5\udb80\uddf6\udb80\uddf7",
+                "\udb80\uddf8\udb80\uddf9\udb80\uddfa\udb80\uddfb"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/firework/shape.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\udb80\uddfc\udb80\uddfd\udb80\uddfe\udb80\uddff\udb80\ude00\udb80\ude01",
+                "\udb80\ude02\udb80\ude03\udb80\ude04\udb80\ude05\udb80\ude06\udb80\ude07"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:chat/gamemodes.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\udb80\ude0b\udb80\ude0c\udb80\ude0d\udb80\ude0e\udb80\ude0f\udbc1\ude69"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:gui/anvil_enchantingtable.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\udb80\ude10\udb80\ude11\udb80\ude12\udb80\ude13"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:advancement/advancement_groups.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\udb80\ude15\udb80\ude16\udb80\ude17\udb80\ude18\udb80\ude19"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:advancement/advancement_categories.png",
+            "ascent": 11,
+            "height": 15,
+            "chars": [
+                "\udb80\ude1a\udb80\ude1b\udb80\ude1c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/tooltip/levels.png",
+            "ascent": 7,
+            "height": 9,
+            "chars": [
+                "\udb80\ude28\udb80\ude29\udb80\ude2a\udb80\ude2b\udb80\ude2c",
+                "\udb80\ude2d\udb80\ude2e\udb80\ude2f\udb80\ude30\udb80\ude31",
+                "\udb80\ude32\udb80\ude33\udb80\ude34\udb80\ude35\udb80\ude36",
+                "\udb80\ude37\udb80\ude38\udb80\ude39\udb80\ude3a\udb80\ude3b",
+                "\udb80\ude3c\udb80\ude3d\udb80\ude3e\udb80\ude3f\udb80\ude40",
+                "\udb80\ude41\udb80\ude42\udb80\ude43\udb80\ude44\udb80\ude45",
+                "\udb80\ude46\udb80\ude47\udb80\ude48\udb80\ude49\udb80\ude4a",
+                "\udb80\ude4b\udb80\ude4c\udb80\ude4d\udb80\ude4e\udb80\ude4f",
+                "\udb80\ude50\udb80\ude51\udb80\ude52\udb80\ude53\udb80\ude54",
+                "\udb80\ude55\udb80\ude56\udb80\ude57\udb80\ude58\udb80\ude59"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:menu/biomes.png",
+            "ascent": 11,
+            "height": 16,
+            "chars": [
+                "\udbd1\udf7f\udbd1\udf80\udbd1\udf81\udbd1\udf82\udbd1\udf83\udbd1\udf84\udbd1\udf85\udbd1\udf86",
+                "\udbd1\udf87\udbd1\udf88\udbd1\udf89\udbd1\udf8a\udbd1\udf8b\udbd1\udf8c\udbd1\udf8d\udbd1\udf8e",
+                "\udbd1\udf8f\udbd1\udf90\udbd1\udf91\udbd1\udf92\udbd1\udf93\udbd1\udf94\udbd1\udf95\udbd1\udf96",
+                "\udbd1\udf97\udbd1\udf98\udbd1\udf99\udbd1\udf9a\udbd1\udf9b\udbd1\udf9c\udbd1\udf9d\udbd1\udf9e",
+                "\udbd1\udf9f\udbd1\udfa0\udbd1\udfa1\udbd1\udfa2\udbd1\udfa3\udbd1\udfa4\udbd1\udfa5\udbd1\udfa6",
+                "\udbd1\udfa7\udbd1\udfa8\udbd1\udfa9\udbd1\udfaa\udbd1\udfab\udbd1\udfac\udbd1\udfad\udbd1\udfae",
+                "\udbd1\udfaf\udbd1\udfb0\udbd1\udfb1\udbd1\udfb2\udbd1\udfb3\udbd1\udfb4\udbd1\udfb5\udbd1\udfb6",
+                "\udbd1\udfb7\udbd1\udfb8\udbd1\udfb9\udbd1\udfba\udbd1\udfbb\udbd1\udfbc\udbd1\udfbd\udbd1\udfbe"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/border.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\udd26",
+                "\udbc0\udd27",
+                "\udbc0\udd28",
+                "\udbc0\udd29",
+                "\udbc0\udd2a",
+                "\udbc0\udd2b",
+                "\udbc0\udd2c",
+                "\udbc0\udd2d",
+                "\udbc0\udd2e",
+                "\udbc0\udd2f",
+                "\udbc0\udd30",
+                "\udbc0\udd31",
+                "\udbc0\udd32",
+                "\udbc0\udd33",
+                "\udbc0\udd34",
+                "\udbc0\udd35"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/bricks.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\udd36",
+                "\udbc0\udd37",
+                "\udbc0\udd38",
+                "\udbc0\udd39",
+                "\udbc0\udd3a",
+                "\udbc0\udd3b",
+                "\udbc0\udd3c",
+                "\udbc0\udd3d",
+                "\udbc0\udd3e",
+                "\udbc0\udd3f",
+                "\udbc0\udd40",
+                "\udbc0\udd41",
+                "\udbc0\udd42",
+                "\udbc0\udd43",
+                "\udbc0\udd44",
+                "\udbc0\udd45"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/circle.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\udd46",
+                "\udbc0\udd47",
+                "\udbc0\udd48",
+                "\udbc0\udd49",
+                "\udbc0\udd4a",
+                "\udbc0\udd4b",
+                "\udbc0\udd4c",
+                "\udbc0\udd4d",
+                "\udbc0\udd4e",
+                "\udbc0\udd4f",
+                "\udbc0\udd50",
+                "\udbc0\udd51",
+                "\udbc0\udd52",
+                "\udbc0\udd53",
+                "\udbc0\udd54",
+                "\udbc0\udd55"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/creeper.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\udd56",
+                "\udbc0\udd57",
+                "\udbc0\udd58",
+                "\udbc0\udd59",
+                "\udbc0\udd5a",
+                "\udbc0\udd5b",
+                "\udbc0\udd5c",
+                "\udbc0\udd5d",
+                "\udbc0\udd5e",
+                "\udbc0\udd5f",
+                "\udbc0\udd60",
+                "\udbc0\udd61",
+                "\udbc0\udd62",
+                "\udbc0\udd63",
+                "\udbc0\udd64",
+                "\udbc0\udd65"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/cross.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\udd66",
+                "\udbc0\udd67",
+                "\udbc0\udd68",
+                "\udbc0\udd69",
+                "\udbc0\udd6a",
+                "\udbc0\udd6b",
+                "\udbc0\udd6c",
+                "\udbc0\udd6d",
+                "\udbc0\udd6e",
+                "\udbc0\udd6f",
+                "\udbc0\udd70",
+                "\udbc0\udd71",
+                "\udbc0\udd72",
+                "\udbc0\udd73",
+                "\udbc0\udd74",
+                "\udbc0\udd75"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/curly_border.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\udd76",
+                "\udbc0\udd77",
+                "\udbc0\udd78",
+                "\udbc0\udd79",
+                "\udbc0\udd7a",
+                "\udbc0\udd7b",
+                "\udbc0\udd7c",
+                "\udbc0\udd7d",
+                "\udbc0\udd7e",
+                "\udbc0\udd7f",
+                "\udbc0\udd80",
+                "\udbc0\udd81",
+                "\udbc0\udd82",
+                "\udbc0\udd83",
+                "\udbc0\udd84",
+                "\udbc0\udd85"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/diagonal_left.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\udd86",
+                "\udbc0\udd87",
+                "\udbc0\udd88",
+                "\udbc0\udd89",
+                "\udbc0\udd8a",
+                "\udbc0\udd8b",
+                "\udbc0\udd8c",
+                "\udbc0\udd8d",
+                "\udbc0\udd8e",
+                "\udbc0\udd8f",
+                "\udbc0\udd90",
+                "\udbc0\udd91",
+                "\udbc0\udd92",
+                "\udbc0\udd93",
+                "\udbc0\udd94",
+                "\udbc0\udd95"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/diagonal_right.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\udd96",
+                "\udbc0\udd97",
+                "\udbc0\udd98",
+                "\udbc0\udd99",
+                "\udbc0\udd9a",
+                "\udbc0\udd9b",
+                "\udbc0\udd9c",
+                "\udbc0\udd9d",
+                "\udbc0\udd9e",
+                "\udbc0\udd9f",
+                "\udbc0\udda0",
+                "\udbc0\udda1",
+                "\udbc0\udda2",
+                "\udbc0\udda3",
+                "\udbc0\udda4",
+                "\udbc0\udda5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/diagonal_up_left.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\udda6",
+                "\udbc0\udda7",
+                "\udbc0\udda8",
+                "\udbc0\udda9",
+                "\udbc0\uddaa",
+                "\udbc0\uddab",
+                "\udbc0\uddac",
+                "\udbc0\uddad",
+                "\udbc0\uddae",
+                "\udbc0\uddaf",
+                "\udbc0\uddb0",
+                "\udbc0\uddb1",
+                "\udbc0\uddb2",
+                "\udbc0\uddb3",
+                "\udbc0\uddb4",
+                "\udbc0\uddb5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/diagonal_up_right.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\uddb6",
+                "\udbc0\uddb7",
+                "\udbc0\uddb8",
+                "\udbc0\uddb9",
+                "\udbc0\uddba",
+                "\udbc0\uddbb",
+                "\udbc0\uddbc",
+                "\udbc0\uddbd",
+                "\udbc0\uddbe",
+                "\udbc0\uddbf",
+                "\udbc0\uddc0",
+                "\udbc0\uddc1",
+                "\udbc0\uddc2",
+                "\udbc0\uddc3",
+                "\udbc0\uddc4",
+                "\udbc0\uddc5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/flower.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\uddc6",
+                "\udbc0\uddc7",
+                "\udbc0\uddc8",
+                "\udbc0\uddc9",
+                "\udbc0\uddca",
+                "\udbc0\uddcb",
+                "\udbc0\uddcc",
+                "\udbc0\uddcd",
+                "\udbc0\uddce",
+                "\udbc0\uddcf",
+                "\udbc0\uddd0",
+                "\udbc0\uddd1",
+                "\udbc0\uddd2",
+                "\udbc0\uddd3",
+                "\udbc0\uddd4",
+                "\udbc0\uddd5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/globe.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\uddd6",
+                "\udbc0\uddd7",
+                "\udbc0\uddd8",
+                "\udbc0\uddd9",
+                "\udbc0\uddda",
+                "\udbc0\udddb",
+                "\udbc0\udddc",
+                "\udbc0\udddd",
+                "\udbc0\uddde",
+                "\udbc0\udddf",
+                "\udbc0\udde0",
+                "\udbc0\udde1",
+                "\udbc0\udde2",
+                "\udbc0\udde3",
+                "\udbc0\udde4",
+                "\udbc0\udde5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/gradient.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\udde6",
+                "\udbc0\udde7",
+                "\udbc0\udde8",
+                "\udbc0\udde9",
+                "\udbc0\uddea",
+                "\udbc0\uddeb",
+                "\udbc0\uddec",
+                "\udbc0\udded",
+                "\udbc0\uddee",
+                "\udbc0\uddef",
+                "\udbc0\uddf0",
+                "\udbc0\uddf1",
+                "\udbc0\uddf2",
+                "\udbc0\uddf3",
+                "\udbc0\uddf4",
+                "\udbc0\uddf5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/gradient_up.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\uddf6",
+                "\udbc0\uddf7",
+                "\udbc0\uddf8",
+                "\udbc0\uddf9",
+                "\udbc0\uddfa",
+                "\udbc0\uddfb",
+                "\udbc0\uddfc",
+                "\udbc0\uddfd",
+                "\udbc0\uddfe",
+                "\udbc0\uddff",
+                "\udbc0\ude00",
+                "\udbc0\ude01",
+                "\udbc0\ude02",
+                "\udbc0\ude03",
+                "\udbc0\ude04",
+                "\udbc0\ude05"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/half_horizontal.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\ude06",
+                "\udbc0\ude07",
+                "\udbc0\ude08",
+                "\udbc0\ude09",
+                "\udbc0\ude0a",
+                "\udbc0\ude0b",
+                "\udbc0\ude0c",
+                "\udbc0\ude0d",
+                "\udbc0\ude0e",
+                "\udbc0\ude0f",
+                "\udbc0\ude10",
+                "\udbc0\ude11",
+                "\udbc0\ude12",
+                "\udbc0\ude13",
+                "\udbc0\ude14",
+                "\udbc0\ude15"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/half_horizontal_bottom.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\ude16",
+                "\udbc0\ude17",
+                "\udbc0\ude18",
+                "\udbc0\ude19",
+                "\udbc0\ude1a",
+                "\udbc0\ude1b",
+                "\udbc0\ude1c",
+                "\udbc0\ude1d",
+                "\udbc0\ude1e",
+                "\udbc0\ude1f",
+                "\udbc0\ude20",
+                "\udbc0\ude21",
+                "\udbc0\ude22",
+                "\udbc0\ude23",
+                "\udbc0\ude24",
+                "\udbc0\ude25"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/half_vertical.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\ude26",
+                "\udbc0\ude27",
+                "\udbc0\ude28",
+                "\udbc0\ude29",
+                "\udbc0\ude2a",
+                "\udbc0\ude2b",
+                "\udbc0\ude2c",
+                "\udbc0\ude2d",
+                "\udbc0\ude2e",
+                "\udbc0\ude2f",
+                "\udbc0\ude30",
+                "\udbc0\ude31",
+                "\udbc0\ude32",
+                "\udbc0\ude33",
+                "\udbc0\ude34",
+                "\udbc0\ude35"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/half_vertical_right.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\ude36",
+                "\udbc0\ude37",
+                "\udbc0\ude38",
+                "\udbc0\ude39",
+                "\udbc0\ude3a",
+                "\udbc0\ude3b",
+                "\udbc0\ude3c",
+                "\udbc0\ude3d",
+                "\udbc0\ude3e",
+                "\udbc0\ude3f",
+                "\udbc0\ude40",
+                "\udbc0\ude41",
+                "\udbc0\ude42",
+                "\udbc0\ude43",
+                "\udbc0\ude44",
+                "\udbc0\ude45"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/mojang.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\ude46",
+                "\udbc0\ude47",
+                "\udbc0\ude48",
+                "\udbc0\ude49",
+                "\udbc0\ude4a",
+                "\udbc0\ude4b",
+                "\udbc0\ude4c",
+                "\udbc0\ude4d",
+                "\udbc0\ude4e",
+                "\udbc0\ude4f",
+                "\udbc0\ude50",
+                "\udbc0\ude51",
+                "\udbc0\ude52",
+                "\udbc0\ude53",
+                "\udbc0\ude54",
+                "\udbc0\ude55"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/piglin.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\ude56",
+                "\udbc0\ude57",
+                "\udbc0\ude58",
+                "\udbc0\ude59",
+                "\udbc0\ude5a",
+                "\udbc0\ude5b",
+                "\udbc0\ude5c",
+                "\udbc0\ude5d",
+                "\udbc0\ude5e",
+                "\udbc0\ude5f",
+                "\udbc0\ude60",
+                "\udbc0\ude61",
+                "\udbc0\ude62",
+                "\udbc0\ude63",
+                "\udbc0\ude64",
+                "\udbc0\ude65"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/rhombus.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\ude66",
+                "\udbc0\ude67",
+                "\udbc0\ude68",
+                "\udbc0\ude69",
+                "\udbc0\ude6a",
+                "\udbc0\ude6b",
+                "\udbc0\ude6c",
+                "\udbc0\ude6d",
+                "\udbc0\ude6e",
+                "\udbc0\ude6f",
+                "\udbc0\ude70",
+                "\udbc0\ude71",
+                "\udbc0\ude72",
+                "\udbc0\ude73",
+                "\udbc0\ude74",
+                "\udbc0\ude75"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/skull.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\ude76",
+                "\udbc0\ude77",
+                "\udbc0\ude78",
+                "\udbc0\ude79",
+                "\udbc0\ude7a",
+                "\udbc0\ude7b",
+                "\udbc0\ude7c",
+                "\udbc0\ude7d",
+                "\udbc0\ude7e",
+                "\udbc0\ude7f",
+                "\udbc0\ude80",
+                "\udbc0\ude81",
+                "\udbc0\ude82",
+                "\udbc0\ude83",
+                "\udbc0\ude84",
+                "\udbc0\ude85"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/small_stripes.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\ude86",
+                "\udbc0\ude87",
+                "\udbc0\ude88",
+                "\udbc0\ude89",
+                "\udbc0\ude8a",
+                "\udbc0\ude8b",
+                "\udbc0\ude8c",
+                "\udbc0\ude8d",
+                "\udbc0\ude8e",
+                "\udbc0\ude8f",
+                "\udbc0\ude90",
+                "\udbc0\ude91",
+                "\udbc0\ude92",
+                "\udbc0\ude93",
+                "\udbc0\ude94",
+                "\udbc0\ude95"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/square_bottom_left.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\ude96",
+                "\udbc0\ude97",
+                "\udbc0\ude98",
+                "\udbc0\ude99",
+                "\udbc0\ude9a",
+                "\udbc0\ude9b",
+                "\udbc0\ude9c",
+                "\udbc0\ude9d",
+                "\udbc0\ude9e",
+                "\udbc0\ude9f",
+                "\udbc0\udea0",
+                "\udbc0\udea1",
+                "\udbc0\udea2",
+                "\udbc0\udea3",
+                "\udbc0\udea4",
+                "\udbc0\udea5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/square_bottom_right.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\udea6",
+                "\udbc0\udea7",
+                "\udbc0\udea8",
+                "\udbc0\udea9",
+                "\udbc0\udeaa",
+                "\udbc0\udeab",
+                "\udbc0\udeac",
+                "\udbc0\udead",
+                "\udbc0\udeae",
+                "\udbc0\udeaf",
+                "\udbc0\udeb0",
+                "\udbc0\udeb1",
+                "\udbc0\udeb2",
+                "\udbc0\udeb3",
+                "\udbc0\udeb4",
+                "\udbc0\udeb5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/square_top_left.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\udeb6",
+                "\udbc0\udeb7",
+                "\udbc0\udeb8",
+                "\udbc0\udeb9",
+                "\udbc0\udeba",
+                "\udbc0\udebb",
+                "\udbc0\udebc",
+                "\udbc0\udebd",
+                "\udbc0\udebe",
+                "\udbc0\udebf",
+                "\udbc0\udec0",
+                "\udbc0\udec1",
+                "\udbc0\udec2",
+                "\udbc0\udec3",
+                "\udbc0\udec4",
+                "\udbc0\udec5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/square_top_right.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\udec6",
+                "\udbc0\udec7",
+                "\udbc0\udec8",
+                "\udbc0\udec9",
+                "\udbc0\udeca",
+                "\udbc0\udecb",
+                "\udbc0\udecc",
+                "\udbc0\udecd",
+                "\udbc0\udece",
+                "\udbc0\udecf",
+                "\udbc0\uded0",
+                "\udbc0\uded1",
+                "\udbc0\uded2",
+                "\udbc0\uded3",
+                "\udbc0\uded4",
+                "\udbc0\uded5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/straight_cross.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\uded6",
+                "\udbc0\uded7",
+                "\udbc0\uded8",
+                "\udbc0\uded9",
+                "\udbc0\udeda",
+                "\udbc0\udedb",
+                "\udbc0\udedc",
+                "\udbc0\udedd",
+                "\udbc0\udede",
+                "\udbc0\udedf",
+                "\udbc0\udee0",
+                "\udbc0\udee1",
+                "\udbc0\udee2",
+                "\udbc0\udee3",
+                "\udbc0\udee4",
+                "\udbc0\udee5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/stripe_bottom.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\udee6",
+                "\udbc0\udee7",
+                "\udbc0\udee8",
+                "\udbc0\udee9",
+                "\udbc0\udeea",
+                "\udbc0\udeeb",
+                "\udbc0\udeec",
+                "\udbc0\udeed",
+                "\udbc0\udeee",
+                "\udbc0\udeef",
+                "\udbc0\udef0",
+                "\udbc0\udef1",
+                "\udbc0\udef2",
+                "\udbc0\udef3",
+                "\udbc0\udef4",
+                "\udbc0\udef5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/stripe_center.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\udef6",
+                "\udbc0\udef7",
+                "\udbc0\udef8",
+                "\udbc0\udef9",
+                "\udbc0\udefa",
+                "\udbc0\udefb",
+                "\udbc0\udefc",
+                "\udbc0\udefd",
+                "\udbc0\udefe",
+                "\udbc0\udeff",
+                "\udbc0\udf00",
+                "\udbc0\udf01",
+                "\udbc0\udf02",
+                "\udbc0\udf03",
+                "\udbc0\udf04",
+                "\udbc0\udf05"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/stripe_downleft.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\udf06",
+                "\udbc0\udf07",
+                "\udbc0\udf08",
+                "\udbc0\udf09",
+                "\udbc0\udf0a",
+                "\udbc0\udf0b",
+                "\udbc0\udf0c",
+                "\udbc0\udf0d",
+                "\udbc0\udf0e",
+                "\udbc0\udf0f",
+                "\udbc0\udf10",
+                "\udbc0\udf11",
+                "\udbc0\udf12",
+                "\udbc0\udf13",
+                "\udbc0\udf14",
+                "\udbc0\udf15"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/stripe_downright.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\udf16",
+                "\udbc0\udf17",
+                "\udbc0\udf18",
+                "\udbc0\udf19",
+                "\udbc0\udf1a",
+                "\udbc0\udf1b",
+                "\udbc0\udf1c",
+                "\udbc0\udf1d",
+                "\udbc0\udf1e",
+                "\udbc0\udf1f",
+                "\udbc0\udf20",
+                "\udbc0\udf21",
+                "\udbc0\udf22",
+                "\udbc0\udf23",
+                "\udbc0\udf24",
+                "\udbc0\udf25"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/stripe_left.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\udf26",
+                "\udbc0\udf27",
+                "\udbc0\udf28",
+                "\udbc0\udf29",
+                "\udbc0\udf2a",
+                "\udbc0\udf2b",
+                "\udbc0\udf2c",
+                "\udbc0\udf2d",
+                "\udbc0\udf2e",
+                "\udbc0\udf2f",
+                "\udbc0\udf30",
+                "\udbc0\udf31",
+                "\udbc0\udf32",
+                "\udbc0\udf33",
+                "\udbc0\udf34",
+                "\udbc0\udf35"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/stripe_middle.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\udf36",
+                "\udbc0\udf37",
+                "\udbc0\udf38",
+                "\udbc0\udf39",
+                "\udbc0\udf3a",
+                "\udbc0\udf3b",
+                "\udbc0\udf3c",
+                "\udbc0\udf3d",
+                "\udbc0\udf3e",
+                "\udbc0\udf3f",
+                "\udbc0\udf40",
+                "\udbc0\udf41",
+                "\udbc0\udf42",
+                "\udbc0\udf43",
+                "\udbc0\udf44",
+                "\udbc0\udf45"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/stripe_right.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\udf46",
+                "\udbc0\udf47",
+                "\udbc0\udf48",
+                "\udbc0\udf49",
+                "\udbc0\udf4a",
+                "\udbc0\udf4b",
+                "\udbc0\udf4c",
+                "\udbc0\udf4d",
+                "\udbc0\udf4e",
+                "\udbc0\udf4f",
+                "\udbc0\udf50",
+                "\udbc0\udf51",
+                "\udbc0\udf52",
+                "\udbc0\udf53",
+                "\udbc0\udf54",
+                "\udbc0\udf55"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/stripe_top.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\udf56",
+                "\udbc0\udf57",
+                "\udbc0\udf58",
+                "\udbc0\udf59",
+                "\udbc0\udf5a",
+                "\udbc0\udf5b",
+                "\udbc0\udf5c",
+                "\udbc0\udf5d",
+                "\udbc0\udf5e",
+                "\udbc0\udf5f",
+                "\udbc0\udf60",
+                "\udbc0\udf61",
+                "\udbc0\udf62",
+                "\udbc0\udf63",
+                "\udbc0\udf64",
+                "\udbc0\udf65"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/triangle_bottom.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\udf66",
+                "\udbc0\udf67",
+                "\udbc0\udf68",
+                "\udbc0\udf69",
+                "\udbc0\udf6a",
+                "\udbc0\udf6b",
+                "\udbc0\udf6c",
+                "\udbc0\udf6d",
+                "\udbc0\udf6e",
+                "\udbc0\udf6f",
+                "\udbc0\udf70",
+                "\udbc0\udf71",
+                "\udbc0\udf72",
+                "\udbc0\udf73",
+                "\udbc0\udf74",
+                "\udbc0\udf75"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/triangle_top.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\udf76",
+                "\udbc0\udf77",
+                "\udbc0\udf78",
+                "\udbc0\udf79",
+                "\udbc0\udf7a",
+                "\udbc0\udf7b",
+                "\udbc0\udf7c",
+                "\udbc0\udf7d",
+                "\udbc0\udf7e",
+                "\udbc0\udf7f",
+                "\udbc0\udf80",
+                "\udbc0\udf81",
+                "\udbc0\udf82",
+                "\udbc0\udf83",
+                "\udbc0\udf84",
+                "\udbc0\udf85"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/triangles_bottom.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\udf86",
+                "\udbc0\udf87",
+                "\udbc0\udf88",
+                "\udbc0\udf89",
+                "\udbc0\udf8a",
+                "\udbc0\udf8b",
+                "\udbc0\udf8c",
+                "\udbc0\udf8d",
+                "\udbc0\udf8e",
+                "\udbc0\udf8f",
+                "\udbc0\udf90",
+                "\udbc0\udf91",
+                "\udbc0\udf92",
+                "\udbc0\udf93",
+                "\udbc0\udf94",
+                "\udbc0\udf95"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/banner/triangles_top.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\udbc0\udf96",
+                "\udbc0\udf97",
+                "\udbc0\udf98",
+                "\udbc0\udf99",
+                "\udbc0\udf9a",
+                "\udbc0\udf9b",
+                "\udbc0\udf9c",
+                "\udbc0\udf9d",
+                "\udbc0\udf9e",
+                "\udbc0\udf9f",
+                "\udbc0\udfa0",
+                "\udbc0\udfa1",
+                "\udbc0\udfa2",
+                "\udbc0\udfa3",
+                "\udbc0\udfa4",
+                "\udbc0\udfa5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:menu/language.png",
+            "ascent": 10,
+            "height": 11,
+            "chars": [
+                "\udbc0\udc00\udbc0\udc01\udbc0\udc02\udbc0\udc03\udbc0\udc04\udbc0\udc05\udbc0\udc06\udbc0\udc07\udbc0\udc08\udbc0\udc09\udbc0\udc0a\udbc0\udc0b\udbc0\udc0c\udbc0\udc0d\udbc0\udc0e\udbc0\udc0f\udbc0\udc10\udbc0\udc11\udbc0\udc12\udbc0\udc13\udbc0\udc14\udbc0\udc15\udbc0\udc16\udbc0\udc17\udbc0\udc18\udbc0\udc19\udbc0\udc1a\udbc0\udc1b\udbc0\udc1c\udbc0\udc1d\udbc0\udc1e\udbc0\udc1f",
+                "\udbc0\udc20\udbc0\udc21\udbc0\udc22\udbc0\udc23\udbc0\udc24\udbc0\udc25\udbc0\udc26\udbc0\udc27\udbc0\udc28\udbc0\udc29\udbc0\udc2a\udbc0\udc2b\udbc0\udc2c\udbc0\udc2d\udbc0\udc2e\udbc0\udc2f\udbc0\udc30\udbc0\udc31\udbc0\udc32\udbc0\udc33\udbc0\udc34\udbc0\udc35\udbc0\udc36\udbc0\udc37\udbc0\udc38\udbc0\udc39\udbc0\udc3a\udbc0\udc3b\udbc0\udc3c\udbc0\udc3d\udbc0\udc3e\udbc0\udc3f",
+                "\udbc0\udc40\udbc0\udc41\udbc0\udc42\udbc0\udc43\udbc0\udc44\udbc0\udc45\udbc0\udc46\udbc0\udc47\udbc0\udc48\udbc0\udc49\udbc0\udc4a\udbc0\udc4b\udbc0\udc4c\udbc0\udc4d\udbc0\udc4e\udbc0\udc4f\udbc0\udc50\udbc0\udc51\udbc0\udc52\udbc0\udc53\udbc0\udc54\udbc0\udc55\udbc0\udc56\udbc0\udc57\udbc0\udc58\udbc0\udc59\udbc0\udc5a\udbc0\udc5b\udbc0\udc5c\udbc0\udc5d\udbc0\udc5e\udbc0\udc5f",
+                "\udbc0\udc60\udbc0\udc61\udbc0\udc62\udbc0\udc63\udbc0\udc64\udbc0\udc65\udbc0\udc66\udbc0\udc67\udbc0\udc68\udbc0\udc69\udbc0\udc6a\udbc0\udc6b\udbc0\udc6c\udbc0\udc6d\udbc0\udc6e\udbc0\udc6f\udbc0\udc70\udbc0\udc71\udbc0\udc72\udbc0\udc73\udbc0\udc74\udbc0\udc75\udbc0\udc76\udbc0\udc77\udbc0\udc78\udbc0\udc79\udbc0\udc7a\udbc0\udc7b\udbc0\udc7c\udbc0\udc7d\udbc0\udc7e\udbc0\udc7f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/spawneggs/mobs.png",
+            "ascent": 26,
+            "height": 26,
+            "chars": [
+                "\udbc1\udc10\udbc1\udc11\udbc1\udc12\udbc1\udc13\udbc1\udc14\udbc1\udc15\udbc1\udc16\udbc1\udc17\udbc1\udc18",
+                "\udbc1\udc19\udbc1\udc1a\udbc1\udc1b\udbc1\udc1c\udbc1\udc1d\udbc1\udc1e\udbc1\udc1f\udbc1\udc20\udbc1\udc21",
+                "\udbc1\udc22\udbc1\udc23\udbc1\udc24\udbc1\udc25\udbc1\udc26\udbc1\udc27\udbc1\udc28\udbc1\udc29\udbc1\udc2a",
+                "\udbc1\udc2b\udbc1\udc2c\udbc1\udc2d\udbc1\udc2e\udbc1\udc2f\udbc1\udc30\udbc1\udc31\udbc1\udc32\udbc1\udc33",
+                "\udbc1\udc34\udbc1\udc35\udbc1\udc36\udbc1\udc37\udbc1\udc38\udbc1\udc39\udbc1\udc3a\udbc1\udc3b\udbc1\udc3c",
+                "\udbc1\udc3d\udbc1\udc3e\udbc1\udc3f\udbc1\udc40\udbc1\udc41\udbc1\udc42\udbc1\udc43\udbc1\udc44\udbc1\udc45",
+                "\udbc1\udc46\udbc1\udc47\udbc1\udc48\udbc1\udc49\udbc1\udc4a\udbc1\udc4b\udbc1\udc4c\udbc1\udc4d\udbc1\udc4e",
+                "\udbc1\udc4f\udbc1\udc50\udbc1\udc51\udbc1\udc52\udbc1\udc53\udbc1\udc54\udbc1\udc55\udbc1\udc56\udbc1\udc57",
+                "\udbc1\udc58\udbc1\udc59\udbc1\udc5a\udbc1\udc5b\udbc1\udc5c\udbc1\udc5d\udbc1\udc5e\udbc1\udc5f\udbc1\udc60",
+                "\udbc1\udc61\udbc1\udc62\udbc1\udc63\udbc1\udc64\udbc1\udc65\udbc1\udc66\udbc1\udc67\udbc1\udc68\udbc1\udc69"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/tropical_fish/type.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": [
+                "\udbff\udfc6\udbff\udfc7\udbff\udfc8\udbff\udfc9\udbff\udfda\udbff\udfdb",
+                "\udbff\udfdc\udbff\udfdd\udbff\udfde\udbff\udfdf\udbff\udfd0\udbff\udfd1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/tropical_fish/predefined.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": [
+                "\udbff\udfd2\udbff\udfd3\udbff\udfd4\udbff\udfd5\udbff\udfd6\udbff\udfd7",
+                "\udbff\udfd8\udbff\udfd9\udbff\udfea\udbff\udfeb\udbff\udfec\udbff\udfed",
+                "\udbff\udfee\udbff\udfef\udbff\udfe0\udbff\udfe1\udbff\udfe2\udbff\udfe3",
+                "\udbff\udfe4\udbff\udfe5\udbff\udfe6\udbff\udfe7\udbff\udfe8\udbff\udfe9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/music/horn.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\udbff\udfab\udbff\udfac\udbff\udfad\udbff\udfae",
+                "\udbff\udfaf\udbff\udfa0\udbff\udfa1\udbff\udfa2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/map/info.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\udbff\udfa3\udbff\udfa4",
+                "\udbff\udfa5\udbff\udfa6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/tooltip/trim_pattern.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\udbc7\udf50\udbc7\udf51\udbc7\udf52\udbc7\udf53\udbc7\udf54\udbc7\udf55\udbc7\udf56\udbc7\udf57",
+                "\udbc7\udf58\udbc7\udf59\udbc7\udf5a\udbc7\udf5b\udbc7\udf5c\udbc7\udf5d\udbc7\udf5e\udbc7\udf5f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/tooltip/trim_material.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "\udbff\udfb2\udbff\udfb3\udbff\udfb4\udbff\udfb5\udbff\udfb6\udbff\udfb7\udbff\udfb8\udbff\udfb9\udbff\udfca\udbff\udfcb"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/tooltip/smithing_upgrade.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\udbff\udfcc\udbff\udfcd\udbff\udfce\udbff\udfcf\udbff\udfc0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/tooltip/enchantment.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\udba0\udc00\udba0\udc01\udba0\udc02\udba0\udc03\udba0\udc04\udba0\udc05\udba0\udc06\udba0\udc07",
+                "\udba0\udc08\udba0\udc09\udba0\udc0a\udba0\udc0b\udba0\udc0c\udba0\udc0d\udba0\udc0e\udba0\udc0f",
+                "\udba0\udc10\udba0\udc11\udba0\udc12\udba0\udc13\udba0\udc14\udba0\udc15\udba0\udc16\udba0\udc17",
+                "\udba0\udc18\udba0\udc19\udba0\udc1a\udba0\udc1b\udba0\udc1c\udba0\udc1d\udba0\udc1e\udba0\udc1f",
+                "\udba0\udc20\udba0\udc21\udba0\udc22\udba0\udc23\udba0\udc24\udba0\udc25\udba0\udc26\udba0\udc27"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/tooltip/armor.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\udbb8\udf0a\udbb8\udf0b\udbb8\udf18\udbb8\udf19",
+                "\udbb8\udf0c\udbb8\udf0d\udbb8\udf1a\udbb8\udf1b",
+                "\udbb8\udf0e\udbb8\udf0f\udbb8\udf1c\udbb8\udf1d",
+                "\udbb8\udf10\udbb8\udf11\udbb8\udf1e\udbb8\udf1f",
+                "\udbb8\udf12\udbb8\udf13\udbb8\udf20\udbb8\udf21",
+                "\udbb8\udf14\udbb8\udf15\udbb8\udf22\udbb8\udf23",
+                "\udbb8\udf16\udbb8\udf17\udbb8\udf24\udbb8\udf25"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/painting/paintings.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": [
+                "\udbda\uddd0\udbda\uddd1\udbda\uddd2\udbda\uddd3\udbda\uddd4\udbda\uddd5\udbda\uddd6\udbda\uddd7\udbda\uddd8\udbda\uddd9",
+                "\udbda\uddda\udbda\udddb\udbda\udddc\udbda\udddd\udbda\uddde\udbda\udddf\udbda\udde0\udbda\udde1\udbda\udde2\udbda\udde3",
+                "\udbda\udde4\udbda\udde5\udbda\udde6\udbda\udde7\udbda\udde8\udbda\udde9\udbda\uddea\udbda\uddeb\udbda\uddec\udbda\udded"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/music/disc_time.png",
+            "ascent": 5,
+            "height": 5,
+            "chars": [
+                "\udbda\udf51",
+                "\udbda\udf52",
+                "\udbda\udf53",
+                "\udbda\udf54",
+                "\udbda\udf55",
+                "\udbda\udf56",
+                "\udbda\udf57",
+                "\udbda\udf58",
+                "\udbda\udf59",
+                "\udbda\udf5a",
+                "\udbda\udf5b",
+                "\udbda\udf5c",
+                "\udbda\udf5d",
+                "\udbda\udf5e",
+                "\udbda\udf5f",
+                "\udbda\udf61"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:items/music/horn_time.png",
+            "ascent": 5,
+            "height": 5,
+            "chars": [
+                "\udbda\udf49",
+                "\udbda\udf4a",
+                "\udbda\udf4b",
+                "\udbda\udf4c",
+                "\udbda\udf4d",
+                "\udbda\udf4e",
+                "\udbda\udf4f",
+                "\udbda\udf50"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -3,
+            "chars": [
+                "\uf801"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -4,
+            "chars": [
+                "\uf802"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -5,
+            "chars": [
+                "\uf803"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -6,
+            "chars": [
+                "\uf804"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -7,
+            "chars": [
+                "\uf805"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -8,
+            "chars": [
+                "\uf806"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -9,
+            "chars": [
+                "\uf807"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -10,
+            "chars": [
+                "\uf808"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -18,
+            "chars": [
+                "\uf809"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -34,
+            "chars": [
+                "\uf80a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -66,
+            "chars": [
+                "\uf80b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -130,
+            "chars": [
+                "\uf80c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -258,
+            "chars": [
+                "\uf80d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -514,
+            "chars": [
+                "\uf80e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -1026,
+            "chars": [
+                "\uf80f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -65536,
+            "height": -32770,
+            "chars": [
+                "\uf800"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 0,
+            "chars": [
+                "\uf821"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 1,
+            "chars": [
+                "\uf822"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 2,
+            "chars": [
+                "\uf823"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 3,
+            "chars": [
+                "\uf824"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 4,
+            "chars": [
+                "\uf825"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 5,
+            "chars": [
+                "\uf826"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 6,
+            "chars": [
+                "\uf827"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 7,
+            "chars": [
+                "\uf828"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 15,
+            "chars": [
+                "\uf829"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 31,
+            "chars": [
+                "\uf82a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 63,
+            "chars": [
+                "\uf82b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 127,
+            "chars": [
+                "\uf82c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 255,
+            "chars": [
+                "\uf82d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 511,
+            "chars": [
+                "\uf82e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 1023,
+            "chars": [
+                "\uf82f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -65536,
+            "height": 32767,
+            "chars": [
+                "\uf820"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -3,
+            "chars": [
+                "\uf811"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -4,
+            "chars": [
+                "\uf812"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -5,
+            "chars": [
+                "\uf813"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -6,
+            "chars": [
+                "\uf814"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -7,
+            "chars": [
+                "\uf815"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -8,
+            "chars": [
+                "\uf816"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -9,
+            "chars": [
+                "\uf817"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -10,
+            "chars": [
+                "\uf818"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -18,
+            "chars": [
+                "\uf819"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -34,
+            "chars": [
+                "\uf81a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -66,
+            "chars": [
+                "\uf81b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -130,
+            "chars": [
+                "\uf81c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -258,
+            "chars": [
+                "\uf81d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -514,
+            "chars": [
+                "\uf81e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -1026,
+            "chars": [
+                "\uf81f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -65536,
+            "height": -32770,
+            "chars": [
+                "\uf810"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 0,
+            "chars": [
+                "\uf831"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 1,
+            "chars": [
+                "\uf832"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 2,
+            "chars": [
+                "\uf833"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 3,
+            "chars": [
+                "\uf834"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 4,
+            "chars": [
+                "\uf835"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 5,
+            "chars": [
+                "\uf836"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 6,
+            "chars": [
+                "\uf837"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 7,
+            "chars": [
+                "\uf838"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 15,
+            "chars": [
+                "\uf839"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 31,
+            "chars": [
+                "\uf83a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 63,
+            "chars": [
+                "\uf83b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 127,
+            "chars": [
+                "\uf83c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 255,
+            "chars": [
+                "\uf83d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 511,
+            "chars": [
+                "\uf83e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 1023,
+            "chars": [
+                "\uf83f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -65536,
+            "height": 32767,
+            "chars": [
+                "\uf830"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:chat/gamemodes.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\udb81\udc18\udb81\udc19\udb81\udc1a\udb81\udc1b\udb81\udc1c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:chat/advancement_categories.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\udb81\udc1d\udb81\udc1e\udb81\udc1f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:chat/message_type.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\udb81\udc20\udb81\udc21\udb81\udc22\udb81\udc23\udb81\udc24\udb81\udc25\udb81\udc26\udb81\udc27"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:chat/commands.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\udb81\udc28\udb81\udc29\udb81\udc2a\udb81\udc2b\udb81\udc2c\udb81\udc2d\udb81\udc2e\udb81\udc2f\udb81\udc30\udb81\udc31\udb81\udc32\udb81\udc33\udb81\udc34\udb81\udc35\udb81\udc36",
+                "\udb81\udc37\udb81\udc38\udb81\udc39\udb81\udc3a\udb81\udc3b\udb81\udc3c\udb81\udc3d\udb81\udc3e\udb81\udc3f\udb81\udc40\udb81\udc41\udb81\udc42\udb81\udc43\udb81\udc44\udb81\udc45"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:chat/whitelist.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\udb81\udc46\udb81\udc47\udb81\udc48\udb81\udc49\udb81\udc4a\udb81\udc4b"
+            ]
+        }
+    ]
+}

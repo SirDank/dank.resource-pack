@@ -1,0 +1,741 @@
+{
+    "entity.fish.swim": {
+        "sounds": [
+            {
+                "name": "entity/fish/swim1",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "entity/fish/swim2",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "entity/fish/swim3",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "entity/fish/swim4",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "entity/fish/swim5",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "entity/fish/swim6",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "entity/fish/swim7",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "ambience/beach/wave1",
+                "weight": 10,
+                "volume": 1,
+                "attenuation_distance": 128
+            },
+            {
+                "name": "ambience/beach/wave2",
+                "weight": 10,
+                "volume": 1,
+                "attenuation_distance": 128
+            }
+        ],
+        "replace": true
+    },
+    "entity.salmon.ambient": {
+        "sounds": [
+            {
+                "name": "ambience/beach/water",
+                "stream": true,
+                "weight": 1,
+                "volume": 0.3
+            }
+        ],
+        "replace": true
+    },
+    "entity.cod.ambient": {
+        "sounds": [
+            {
+                "name": "ambience/beach/water",
+                "stream": true,
+                "weight": 1,
+                "volume": 0.3
+            }
+        ],
+        "replace": true
+    },
+    "entity.tropical_fish.ambient": {
+        "sounds": [
+            {
+                "name": "ambience/beach/water",
+                "stream": true,
+                "weight": 1,
+                "volume": 0.3
+            }
+        ],
+        "replace": true
+    },
+    "entity.puffer_fish.ambient": {
+        "sounds": [
+            {
+                "name": "ambience/beach/water",
+                "stream": true,
+                "weight": 1,
+                "volume": 0.3
+            }
+        ],
+        "replace": true
+    },
+    "entity.drowned.ambient": {
+        "sounds": [
+            {
+                "name": "mob/drowned/idle1",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "mob/drowned/idle2",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "mob/drowned/idle3",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "mob/drowned/idle4",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "mob/drowned/idle5",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "ambience/beach/water",
+                "stream": true,
+                "weight": 10,
+                "volume": 0.3
+            }
+        ],
+        "replace": true
+    },
+    "entity.drowned.ambient_water": {
+        "sounds": [
+            {
+                "name": "mob/drowned/water/idle1",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "mob/drowned/water/idle2",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "mob/drowned/water/idle3",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "mob/drowned/water/idle4",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "ambience/beach/wave1",
+                "weight": 10,
+                "volume": 1,
+                "attenuation_distance": 80
+            },
+            {
+                "name": "ambience/beach/wave2",
+                "weight": 10,
+                "volume": 1,
+                "attenuation_distance": 80
+            }
+        ],
+        "replace": true
+    },
+    "entity.dolphin.ambient": {
+        "sounds": [
+            {
+                "name": "mob/dolphin/idle1",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "mob/dolphin/idle2",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "mob/dolphin/idle3",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "mob/dolphin/idle4",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "mob/dolphin/idle5",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "mob/dolphin/idle6",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "ambience/beach/water",
+                "stream": true,
+                "weight": 12,
+                "volume": 0.3
+            }
+        ],
+        "replace": true
+    },
+    "entity.dolphin.ambient_water": {
+        "sounds": [
+            {
+                "name": "mob/dolphin/idle_water1",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "mob/dolphin/idle_water2",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "mob/dolphin/idle_water3",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "mob/dolphin/idle_water4",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "mob/dolphin/idle_water5",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "mob/dolphin/idle_water6",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "mob/dolphin/idle_water7",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "mob/dolphin/idle_water8",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "mob/dolphin/idle_water9",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "mob/dolphin/idle_water10",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "ambience/beach/wave1",
+                "weight": 15,
+                "volume": 1,
+                "attenuation_distance": 80
+            },
+            {
+                "name": "ambience/beach/wave2",
+                "weight": 15,
+                "volume": 1,
+                "attenuation_distance": 80
+            }
+        ],
+        "replace": true
+    },
+    "entity.squid.ambient": {
+        "sounds": [
+            {
+                "name": "entity/squid/ambient1",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "entity/squid/ambient2",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "entity/squid/ambient3",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "entity/squid/ambient4",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "entity/squid/ambient5",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "ambience/beach/water",
+                "stream": true,
+                "weight": 15,
+                "volume": 0.3
+            },
+            {
+                "name": "ambience/beach/wave1",
+                "weight": 5,
+                "volume": 1,
+                "attenuation_distance": 80
+            },
+            {
+                "name": "ambience/beach/wave2",
+                "weight": 5,
+                "volume": 1,
+                "attenuation_distance": 80
+            }
+        ],
+        "replace": true
+    },
+    "entity.glow_squid.ambient": {
+        "sounds": [
+            {
+                "name": "entity/glow_squid/ambient1",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "entity/glow_squid/ambient2",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "entity/glow_squid/ambient3",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "entity/glow_squid/ambient4",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "entity/glow_squid/ambient5",
+                "weight": 1,
+                "volume": 1
+            },
+            {
+                "name": "ambience/beach/water",
+                "stream": true,
+                "weight": 15,
+                "volume": 0.3
+            },
+            {
+                "name": "ambience/beach/wave1",
+                "weight": 5,
+                "volume": 1,
+                "attenuation_distance": 80
+            },
+            {
+                "name": "ambience/beach/wave2",
+                "weight": 5,
+                "volume": 1,
+                "attenuation_distance": 80
+            }
+        ],
+        "replace": true
+    },
+    "block.stone.break": {
+        "sounds": [
+            "digbreak/stone1",
+            "digbreak/stone2",
+            "digbreak/stone3",
+            "digbreak/stone4"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.block.generic.break"
+    },
+    "block.stone.hit": {
+        "sounds": [
+            "dighit/stone1",
+            "dighit/stone2",
+            "dighit/stone3",
+            "dighit/stone4",
+            "dighit/stone5",
+            "dighit/stone6",
+            "dighit/stone7",
+            "dighit/stone8"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.block.generic.hit"
+    },
+    "block.gravel.break": {
+        "sounds": [
+            "digbreak/gravel1",
+            "digbreak/gravel2",
+            "digbreak/gravel3",
+            "digbreak/gravel4"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.block.generic.break"
+    },
+    "block.glass.step": {
+        "sounds": [
+            "step/glass1",
+            "step/glass2",
+            "step/glass3",
+            "step/glass4"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.block.generic.footsteps"
+    },
+    "block.glass.place": {
+        "sounds": [
+            "dig/glass1",
+            "dig/glass2",
+            "dig/glass3",
+            "dig/glass4"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.block.generic.place"
+    },
+    "block.glass.hit": {
+        "sounds": [
+            "dighit/glass1",
+            "dighit/glass2",
+            "dighit/glass3",
+            "dighit/glass4"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.block.generic.hit"
+    },
+    "block.crop.break": {
+        "sounds": [
+            "item/plant/harvest1",
+            "item/plant/harvest2",
+            "item/plant/harvest3",
+            "item/plant/harvest4"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.block.generic.break"
+    },
+    "block.vine.place": {
+        "sounds": [
+            "block/vine/climb1",
+            "block/vine/climb2",
+            "block/vine/climb3",
+            "block/vine/climb4",
+            "block/vine/climb5"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.block.generic.place"
+    },
+    "block.vine.hit": {
+        "sounds": [
+            "block/vine/climb1",
+            "block/vine/climb2",
+            "block/vine/climb3",
+            "block/vine/climb4",
+            "block/vine/climb5"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.block.generic.hit"
+    },
+    "block.vine.break": {
+        "sounds": [
+            "block/vine/tear1",
+            "block/vine/tear2",
+            "block/vine/tear3",
+            "block/vine/tear4",
+            "block/vine/tear5"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.block.generic.break"
+    },
+    "block.portal.ambient": {
+        "sounds": [
+            "portal/portal",
+            "portal/portal2",
+            "portal/portal3"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.block.portal.ambient"
+    },
+    "block.portal.travel": {
+        "sounds": [
+            "portal/travel",
+            "portal/travel2",
+            "portal/travel3"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.block.portal.ambient"
+    },
+    "weather.rain": {
+        "sounds": [
+            "ambient/weather/rain1",
+            "ambient/weather/rain2",
+            "ambient/weather/rain3",
+            "ambient/weather/rain4"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.weather.rain"
+    },
+    "weather.rain.above": {
+        "sounds": [
+            "ambient/weather/rain1",
+            "ambient/weather/rain2",
+            "ambient/weather/rain3",
+            "ambient/weather/rain4"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.weather.rain"
+    },
+    "block.chest.close": {
+        "sounds": [
+            "block/chest/close",
+            "block/chest/close2",
+            "block/chest/close3"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.block.chest.close"
+    },
+    "entity.creeper.primed": {
+        "sounds": [
+            "random/creeper"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.creeper.primed"
+    },
+    "entity.firework_rocket.launch": {
+        "sounds": [
+            "fireworks/launch1",
+            "fireworks/launch2",
+            "fireworks/launch3"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.firework_rocket.launch"
+    },
+    "entity.firework_rocket.blast": {
+        "sounds": [
+            "fireworks/blast1",
+            "fireworks/blast2"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.firework_rocket.blast"
+    },
+    "entity.firework_rocket.blast_far": {
+        "sounds": [
+            "fireworks/blast1_far",
+            "fireworks/blast2_far"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.firework_rocket.blast"
+    },
+    "entity.firework_rocket.large_blast_far": {
+        "sounds": [
+            "fireworks/largeblast1_far"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.firework_rocket.blast"
+    },
+    "entity.firework_rocket.twinkle": {
+        "sounds": [
+            "fireworks/twinkle1",
+            "fireworks/twinkle2"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.firework_rocket.twinkle"
+    },
+    "entity.firework_rocket.twinkle_far": {
+        "sounds": [
+            "fireworks/twinkle1_far",
+            "fireworks/twinkle2_far"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.firework_rocket.twinkle"
+    },
+    "entity.firework_rocket.shoot": {
+        "sounds": [
+            "fireworks/shoot"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.firework_rocket.launch"
+    },
+    "block.water.ambient": {
+        "sounds": [
+            "liquid/water",
+            "liquid/water2"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.block.water.ambient"
+    },
+    "block.lava.ambient": {
+        "sounds": [
+            "liquid/lava1",
+            "liquid/lava2",
+            "liquid/lava3"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.block.lava.ambient"
+    },
+    "block.lava.pop": {
+        "sounds": [
+            "liquid/lavapop",
+            "liquid/lavapop2",
+            "liquid/lavapop3",
+            "liquid/lavapop4"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.block.lava.ambient"
+    },
+    "entity.skeleton.shoot": {
+        "sounds": [
+            "mob/skeleton/shoot1",
+            "mob/skeleton/shoot2"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.skeleton.shoot"
+    },
+    "entity.egg.throw": {
+        "sounds": [
+            {
+                "name": "item/throwables/throw_egg",
+                "volume": 1,
+                "pitch": 2.0
+            }
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.egg.throw"
+    },
+    "entity.ender_pearl.throw": {
+        "sounds": [
+            {
+                "name": "item/throwables/throw_enderpearl",
+                "volume": 1,
+                "pitch": 2.0
+            }
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.ender_pearl.throw"
+    },
+    "entity.experience_bottle.throw": {
+        "sounds": [
+            {
+                "name": "item/throwables/throw_bottle",
+                "volume": 1,
+                "pitch": 2.0
+            }
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.potion.throw"
+    },
+    "entity.fishing_bobber.throw": {
+        "sounds": [
+            {
+                "name": "item/throwables/throw_line",
+                "volume": 1,
+                "pitch": 2.0
+            }
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.fishing_bobber.throw"
+    },
+    "entity.lingering_potion.throw": {
+        "sounds": [
+            {
+                "name": "item/throwables/throw_lingeringpotion1",
+                "volume": 1,
+                "pitch": 2.0
+            },
+            {
+                "name": "item/throwables/throw_lingeringpotion2",
+                "volume": 1,
+                "pitch": 2.0
+            }
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.potion.throw"
+    },
+    "entity.snowball.throw": {
+        "sounds": [
+            {
+                "name": "item/throwables/throw_snowball",
+                "volume": 1,
+                "pitch": 2.0
+            }
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.snowball.throw"
+    },
+    "entity.snow_golem.shoot": {
+        "sounds": [
+            {
+                "name": "item/throwables/throw_snowball_golem",
+                "volume": 1,
+                "pitch": 2.0
+            }
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.snowball.throw"
+    },
+    "entity.splash_potion.throw": {
+        "sounds": [
+            {
+                "name": "item/throwables/throw_splashpotion1",
+                "volume": 1,
+                "pitch": 2.0
+            },
+            {
+                "name": "item/throwables/throw_splashpotion2",
+                "volume": 1,
+                "pitch": 2.0
+            }
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.potion.throw"
+    },
+    "entity.splash_potion.break": {
+        "sounds": [
+            "item/throwables/bottle/splashpotion_break1",
+            "item/throwables/bottle/splashpotion_break2",
+            "item/throwables/bottle/splashpotion_break3"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.potion.splash"
+    },
+    "entity.witch.throw": {
+        "sounds": [
+            "item/throwables/throw_witch1",
+            "item/throwables/throw_witch2"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.witch.throw"
+    }
+}

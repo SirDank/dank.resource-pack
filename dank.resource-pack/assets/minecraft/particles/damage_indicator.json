@@ -1,0 +1,8 @@
+{
+  "textures": [
+    "minecraft:damage",
+    "minecraft:damage_1",
+    "minecraft:damage_2",
+	"minecraft:damage_3"
+  ]
+}

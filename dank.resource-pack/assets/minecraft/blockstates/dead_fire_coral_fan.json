@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "":[
+      {"model": "minecraft:block/dead_big_fire_coral_fan", "weight": 1},
+      {"model": "minecraft:block/dead_fire_coral_fan", "weight": 2}
+     ]
+  }
+}
