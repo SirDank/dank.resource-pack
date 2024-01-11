@@ -92,6 +92,42 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:font/nightlich.png",
+            "ascent": 18,
+            "height": 64,
+            "chars": [
+                "\ue913"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/voidblossom.png",
+            "ascent": 18,
+            "height": 64,
+            "chars": [
+                "\ue914"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/obsidilith.png",
+            "ascent": 18,
+            "height": 64,
+            "chars": [
+                "\ue915"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/nethergauntlet.png",
+            "ascent": 18,
+            "height": 64,
+            "chars": [
+                "\ue916"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "icons:menu/main_menu.png",
             "ascent": 13,
             "height": 20,

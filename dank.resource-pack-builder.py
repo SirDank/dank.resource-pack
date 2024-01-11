@@ -113,6 +113,7 @@ def copy_and_overwrite(src, dst):
                 if os.path.isfile(dst_item):
                     combined_file_data = json.dumps(merge_json_files(src_item, dst_item), indent=4)
                     open(dst_item, "w").write(combined_file_data)
+                    print(clr(f"  > Merged [ {dst_item} ]"))
                     continue
             shutil.copy(src_item, dst_item)
 
@@ -196,7 +197,7 @@ if __name__ == "__main__":
     prepare()
     print(clr(f"\n  > Checking Downloaded Zips..."))
     download_zips()
-    print(clr(f"\n  > Extracting Zips..."))
+    print(clr(f"\n  > Extracting Zips...\n"))
     extract_zips()
     print(clr(f"\n  > Copying and Overwriting Base..."))
     copy_and_overwrite("base", "dank.resource-pack")
