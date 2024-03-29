@@ -191,7 +191,7 @@ if __name__ == "__main__":
     cls()
     session = requests.Session()
     os.chdir(os.path.dirname(os.path.realpath(__file__)))
-    headers = {'User-Agent': 'dank.tool', 'Content-Type': 'application/zip'}
+    headers = {'User-Agent': 'dankware', 'Content-Type': 'application/zip'}
 
     print(clr(f"\n  > Preparing..."))
     prepare()
