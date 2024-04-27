@@ -1,6 +1,7 @@
 import os
 import json
 import time
+import hashlib
 import requests
 import zipfile
 import shutil
@@ -186,8 +187,15 @@ def compress_to_zip():
                 zf.write(filepath, zip_path)
                 job_progress.update(overall_task, advance=1)
 
+def save_sha1():
+
+    with open('dank.resource-pack.zip', 'rb') as file:
+        sha1_hash = hashlib.sha1(file.read()).hexdigest()
+    with open('sha1.txt', 'w') as file:
+        file.write(sha1_hash)
+
 if __name__ == "__main__":
-    
+
     cls()
     session = requests.Session()
     os.chdir(os.path.dirname(os.path.realpath(__file__)))
@@ -205,3 +213,5 @@ if __name__ == "__main__":
     cleanup()
     print(clr(f"\n  > Compressing to Zip...\n"))
     compress_to_zip()
+    print(clr(f"\n  > Saving SHA-1...\n"))
+    save_sha1()
