@@ -372,6 +372,102 @@
         ],
         "replace": true
     },
+    "block.chest.close": {
+        "sounds": [
+            "block/chest/close",
+            "block/chest/close2",
+            "block/chest/close3"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.block.chest.close"
+    },
+    "block.crop.break": {
+        "sounds": [
+            "item/plant/harvest1",
+            "item/plant/harvest2",
+            "item/plant/harvest3",
+            "item/plant/harvest4"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.block.generic.break"
+    },
+    "block.glass.hit": {
+        "sounds": [
+            "dighit/glass1",
+            "dighit/glass2",
+            "dighit/glass3",
+            "dighit/glass4"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.block.generic.hit"
+    },
+    "block.glass.place": {
+        "sounds": [
+            "dig/glass1",
+            "dig/glass2",
+            "dig/glass3",
+            "dig/glass4"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.block.generic.place"
+    },
+    "block.glass.step": {
+        "sounds": [
+            "step/glass1",
+            "step/glass2",
+            "step/glass3",
+            "step/glass4"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.block.generic.footsteps"
+    },
+    "block.gravel.break": {
+        "sounds": [
+            "digbreak/gravel1",
+            "digbreak/gravel2",
+            "digbreak/gravel3",
+            "digbreak/gravel4"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.block.generic.break"
+    },
+    "block.lava.ambient": {
+        "sounds": [
+            "liquid/lava1",
+            "liquid/lava2",
+            "liquid/lava3"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.block.lava.ambient"
+    },
+    "block.lava.pop": {
+        "sounds": [
+            "liquid/lavapop",
+            "liquid/lavapop2",
+            "liquid/lavapop3",
+            "liquid/lavapop4"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.block.lava.ambient"
+    },
+    "block.portal.ambient": {
+        "sounds": [
+            "portal/portal",
+            "portal/portal2",
+            "portal/portal3"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.block.portal.ambient"
+    },
+    "block.portal.travel": {
+        "sounds": [
+            "portal/travel",
+            "portal/travel2",
+            "portal/travel3"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.block.portal.ambient"
+    },
     "block.stone.break": {
         "sounds": [
             "digbreak/stone1",
@@ -396,66 +492,16 @@
         "replace": true,
         "subtitle": "subtitles.block.generic.hit"
     },
-    "block.gravel.break": {
+    "block.vine.break": {
         "sounds": [
-            "digbreak/gravel1",
-            "digbreak/gravel2",
-            "digbreak/gravel3",
-            "digbreak/gravel4"
+            "block/vine/tear1",
+            "block/vine/tear2",
+            "block/vine/tear3",
+            "block/vine/tear4",
+            "block/vine/tear5"
         ],
         "replace": true,
         "subtitle": "subtitles.block.generic.break"
-    },
-    "block.glass.step": {
-        "sounds": [
-            "step/glass1",
-            "step/glass2",
-            "step/glass3",
-            "step/glass4"
-        ],
-        "replace": true,
-        "subtitle": "subtitles.block.generic.footsteps"
-    },
-    "block.glass.place": {
-        "sounds": [
-            "dig/glass1",
-            "dig/glass2",
-            "dig/glass3",
-            "dig/glass4"
-        ],
-        "replace": true,
-        "subtitle": "subtitles.block.generic.place"
-    },
-    "block.glass.hit": {
-        "sounds": [
-            "dighit/glass1",
-            "dighit/glass2",
-            "dighit/glass3",
-            "dighit/glass4"
-        ],
-        "replace": true,
-        "subtitle": "subtitles.block.generic.hit"
-    },
-    "block.crop.break": {
-        "sounds": [
-            "item/plant/harvest1",
-            "item/plant/harvest2",
-            "item/plant/harvest3",
-            "item/plant/harvest4"
-        ],
-        "replace": true,
-        "subtitle": "subtitles.block.generic.break"
-    },
-    "block.vine.place": {
-        "sounds": [
-            "block/vine/climb1",
-            "block/vine/climb2",
-            "block/vine/climb3",
-            "block/vine/climb4",
-            "block/vine/climb5"
-        ],
-        "replace": true,
-        "subtitle": "subtitles.block.generic.place"
     },
     "block.vine.hit": {
         "sounds": [
@@ -468,125 +514,16 @@
         "replace": true,
         "subtitle": "subtitles.block.generic.hit"
     },
-    "block.vine.break": {
+    "block.vine.place": {
         "sounds": [
-            "block/vine/tear1",
-            "block/vine/tear2",
-            "block/vine/tear3",
-            "block/vine/tear4",
-            "block/vine/tear5"
+            "block/vine/climb1",
+            "block/vine/climb2",
+            "block/vine/climb3",
+            "block/vine/climb4",
+            "block/vine/climb5"
         ],
         "replace": true,
-        "subtitle": "subtitles.block.generic.break"
-    },
-    "block.portal.ambient": {
-        "sounds": [
-            "portal/portal",
-            "portal/portal2",
-            "portal/portal3"
-        ],
-        "replace": true,
-        "subtitle": "subtitles.block.portal.ambient"
-    },
-    "block.portal.travel": {
-        "sounds": [
-            "portal/travel",
-            "portal/travel2",
-            "portal/travel3"
-        ],
-        "replace": true,
-        "subtitle": "subtitles.block.portal.ambient"
-    },
-    "weather.rain": {
-        "sounds": [
-            "ambient/weather/rain1",
-            "ambient/weather/rain2",
-            "ambient/weather/rain3",
-            "ambient/weather/rain4"
-        ],
-        "replace": true,
-        "subtitle": "subtitles.weather.rain"
-    },
-    "weather.rain.above": {
-        "sounds": [
-            "ambient/weather/rain1",
-            "ambient/weather/rain2",
-            "ambient/weather/rain3",
-            "ambient/weather/rain4"
-        ],
-        "replace": true,
-        "subtitle": "subtitles.weather.rain"
-    },
-    "block.chest.close": {
-        "sounds": [
-            "block/chest/close",
-            "block/chest/close2",
-            "block/chest/close3"
-        ],
-        "replace": true,
-        "subtitle": "subtitles.block.chest.close"
-    },
-    "entity.creeper.primed": {
-        "sounds": [
-            "random/creeper"
-        ],
-        "replace": true,
-        "subtitle": "subtitles.entity.creeper.primed"
-    },
-    "entity.firework_rocket.launch": {
-        "sounds": [
-            "fireworks/launch1",
-            "fireworks/launch2",
-            "fireworks/launch3"
-        ],
-        "replace": true,
-        "subtitle": "subtitles.entity.firework_rocket.launch"
-    },
-    "entity.firework_rocket.blast": {
-        "sounds": [
-            "fireworks/blast1",
-            "fireworks/blast2"
-        ],
-        "replace": true,
-        "subtitle": "subtitles.entity.firework_rocket.blast"
-    },
-    "entity.firework_rocket.blast_far": {
-        "sounds": [
-            "fireworks/blast1_far",
-            "fireworks/blast2_far"
-        ],
-        "replace": true,
-        "subtitle": "subtitles.entity.firework_rocket.blast"
-    },
-    "entity.firework_rocket.large_blast_far": {
-        "sounds": [
-            "fireworks/largeblast1_far"
-        ],
-        "replace": true,
-        "subtitle": "subtitles.entity.firework_rocket.blast"
-    },
-    "entity.firework_rocket.twinkle": {
-        "sounds": [
-            "fireworks/twinkle1",
-            "fireworks/twinkle2"
-        ],
-        "replace": true,
-        "subtitle": "subtitles.entity.firework_rocket.twinkle"
-    },
-    "entity.firework_rocket.twinkle_far": {
-        "sounds": [
-            "fireworks/twinkle1_far",
-            "fireworks/twinkle2_far"
-        ],
-        "replace": true,
-        "subtitle": "subtitles.entity.firework_rocket.twinkle"
-    },
-    "entity.firework_rocket.shoot": {
-        "sounds": [
-            "fireworks/shoot"
-        ],
-        "replace": true,
-        "subtitle": "subtitles.entity.firework_rocket.launch"
+        "subtitle": "subtitles.block.generic.place"
     },
     "block.water.ambient": {
         "sounds": [
@@ -596,32 +533,12 @@
         "replace": true,
         "subtitle": "subtitles.block.water.ambient"
     },
-    "block.lava.ambient": {
+    "entity.creeper.primed": {
         "sounds": [
-            "liquid/lava1",
-            "liquid/lava2",
-            "liquid/lava3"
+            "random/creeper"
         ],
         "replace": true,
-        "subtitle": "subtitles.block.lava.ambient"
-    },
-    "block.lava.pop": {
-        "sounds": [
-            "liquid/lavapop",
-            "liquid/lavapop2",
-            "liquid/lavapop3",
-            "liquid/lavapop4"
-        ],
-        "replace": true,
-        "subtitle": "subtitles.block.lava.ambient"
-    },
-    "entity.skeleton.shoot": {
-        "sounds": [
-            "mob/skeleton/shoot1",
-            "mob/skeleton/shoot2"
-        ],
-        "replace": true,
-        "subtitle": "subtitles.entity.skeleton.shoot"
+        "subtitle": "subtitles.entity.creeper.primed"
     },
     "entity.egg.throw": {
         "sounds": [
@@ -656,6 +573,61 @@
         "replace": true,
         "subtitle": "subtitles.entity.potion.throw"
     },
+    "entity.firework_rocket.blast": {
+        "sounds": [
+            "fireworks/blast1",
+            "fireworks/blast2"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.firework_rocket.blast"
+    },
+    "entity.firework_rocket.blast_far": {
+        "sounds": [
+            "fireworks/blast1_far",
+            "fireworks/blast2_far"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.firework_rocket.blast"
+    },
+    "entity.firework_rocket.large_blast_far": {
+        "sounds": [
+            "fireworks/largeblast1_far"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.firework_rocket.blast"
+    },
+    "entity.firework_rocket.launch": {
+        "sounds": [
+            "fireworks/launch1",
+            "fireworks/launch2",
+            "fireworks/launch3"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.firework_rocket.launch"
+    },
+    "entity.firework_rocket.shoot": {
+        "sounds": [
+            "fireworks/shoot"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.firework_rocket.launch"
+    },
+    "entity.firework_rocket.twinkle": {
+        "sounds": [
+            "fireworks/twinkle1",
+            "fireworks/twinkle2"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.firework_rocket.twinkle"
+    },
+    "entity.firework_rocket.twinkle_far": {
+        "sounds": [
+            "fireworks/twinkle1_far",
+            "fireworks/twinkle2_far"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.firework_rocket.twinkle"
+    },
     "entity.fishing_bobber.throw": {
         "sounds": [
             {
@@ -683,16 +655,13 @@
         "replace": true,
         "subtitle": "subtitles.entity.potion.throw"
     },
-    "entity.snowball.throw": {
+    "entity.skeleton.shoot": {
         "sounds": [
-            {
-                "name": "item/throwables/throw_snowball",
-                "volume": 1,
-                "pitch": 2.0
-            }
+            "mob/skeleton/shoot1",
+            "mob/skeleton/shoot2"
         ],
         "replace": true,
-        "subtitle": "subtitles.entity.snowball.throw"
+        "subtitle": "subtitles.entity.skeleton.shoot"
     },
     "entity.snow_golem.shoot": {
         "sounds": [
@@ -704,6 +673,26 @@
         ],
         "replace": true,
         "subtitle": "subtitles.entity.snowball.throw"
+    },
+    "entity.snowball.throw": {
+        "sounds": [
+            {
+                "name": "item/throwables/throw_snowball",
+                "volume": 1,
+                "pitch": 2.0
+            }
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.snowball.throw"
+    },
+    "entity.splash_potion.break": {
+        "sounds": [
+            "item/throwables/bottle/splashpotion_break1",
+            "item/throwables/bottle/splashpotion_break2",
+            "item/throwables/bottle/splashpotion_break3"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.potion.splash"
     },
     "entity.splash_potion.throw": {
         "sounds": [
@@ -721,15 +710,6 @@
         "replace": true,
         "subtitle": "subtitles.entity.potion.throw"
     },
-    "entity.splash_potion.break": {
-        "sounds": [
-            "item/throwables/bottle/splashpotion_break1",
-            "item/throwables/bottle/splashpotion_break2",
-            "item/throwables/bottle/splashpotion_break3"
-        ],
-        "replace": true,
-        "subtitle": "subtitles.entity.potion.splash"
-    },
     "entity.witch.throw": {
         "sounds": [
             "item/throwables/throw_witch1",
@@ -737,5 +717,25 @@
         ],
         "replace": true,
         "subtitle": "subtitles.entity.witch.throw"
+    },
+    "weather.rain": {
+        "sounds": [
+            "ambient/weather/rain1",
+            "ambient/weather/rain2",
+            "ambient/weather/rain3",
+            "ambient/weather/rain4"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.weather.rain"
+    },
+    "weather.rain.above": {
+        "sounds": [
+            "ambient/weather/rain1",
+            "ambient/weather/rain2",
+            "ambient/weather/rain3",
+            "ambient/weather/rain4"
+        ],
+        "replace": true,
+        "subtitle": "subtitles.weather.rain"
     }
 }

@@ -25,7 +25,7 @@ def prepare():
 def file_downloader(url, file_name):
     while True:
         try:
-            response = requests.get(url, headers=headers, allow_redirects=True)
+            response = requests.get(url, headers=headers, allow_redirects=True, timeout=3)
             response.raise_for_status()
             file_size = int(response.headers.get('Content-Length', 0)) / 1024 / 1024
             with open(file_name, "wb") as file:
@@ -38,7 +38,7 @@ def file_downloader(url, file_name):
             rm_line()
 
 def download_zips():
-    
+
     os.chdir("downloads")
 
     to_download_urls = []
@@ -68,16 +68,16 @@ def download_zips():
                 print(clr(f"\n  > Finished Downloads in {time_taken} seconds\n"))
                 break
             except:
-                input(clr(f"\n  > Failed to download files! Do not use [ Ctrl + C ]! Press [ENTER] to try again... ", 2))
+                input(clr("\n  > Failed to download files! Do not use [ Ctrl + C ]! Press [ENTER] to try again... ", 2))
                 cls()
-    
+
     os.chdir("..")
 
 def merge_dicts(dict1, dict2):
     """
-    Recursively merge two dictionaries.
+    Recursively merge two dictionaries, sorting the keys alphabetically.
     """
-    for key, value in dict2.items():
+    for key, value in sorted(dict2.items(), key=lambda x: x[0]):
         if key in dict1 and isinstance(dict1[key], dict) and isinstance(value, dict):
             dict1[key] = merge_dicts(dict1[key], value)
         elif key in dict1 and isinstance(dict1[key], list) and isinstance(value, list):
@@ -88,15 +88,17 @@ def merge_dicts(dict1, dict2):
 
 def merge_json_files(file1_path, file2_path):
 
-    file1_data = open(file1_path, 'r', encoding='utf-8').read().splitlines()
-    file2_data = open(file2_path, 'r', encoding='utf-8').read().splitlines()
-    
+    with open(file1_path, 'r', encoding='utf-8') as file:
+        file1_data = file.read().splitlines()
+    with open(file2_path, 'r', encoding='utf-8') as file:
+        file2_data = file.read().splitlines()
+
     file1_data = "\n".join(line for line in file1_data if not line.strip().startswith("//"))
     file2_data = "\n".join(line for line in file2_data if not line.strip().startswith("//"))
-    
+
     file1_data = json.loads(file1_data)
     file2_data = json.loads(file2_data)
-    
+
     merged_data = merge_dicts(file1_data, file2_data)
     return merged_data
 
@@ -108,12 +110,13 @@ def copy_and_overwrite(src, dst):
         if os.path.isdir(src_item):
             if not os.path.isdir(dst_item):
                 os.makedirs(dst_item)
-            copy_and_overwrite(src_item, dst_item) 
+            copy_and_overwrite(src_item, dst_item)
         else:
             if dst_item.endswith(".json"):
                 if os.path.isfile(dst_item):
                     combined_file_data = json.dumps(merge_json_files(src_item, dst_item), indent=4)
-                    open(dst_item, "w").write(combined_file_data)
+                    with open(dst_item, "w", encoding="utf-8") as file:
+                        file.write(combined_file_data)
                     print(clr(f"  > Merged [ {dst_item} ]"))
                     continue
             shutil.copy(src_item, dst_item)
@@ -129,9 +132,9 @@ def extract_zips():
             copy_and_overwrite("tmp", "dank.resource-pack")
 
 def cleanup():
-    
+
     os.chdir("dank.resource-pack")
-    
+
     paths = [
         "readme.txt",
         "Changelog.txt",
@@ -140,7 +143,7 @@ def cleanup():
         "LICENSE",
         "LICENSE.txt",
     ]
-    
+
     for path in paths:
         if os.path.exists(path):
             try:
@@ -152,7 +155,7 @@ def cleanup():
                 print(clr(f"Failed to remove {path}: {e}"))
 
     os.chdir("..")
-    
+
     shutil.rmtree("tmp")
 
 def compress_to_zip():
@@ -191,7 +194,7 @@ def save_sha1():
 
     with open('dank.resource-pack.zip', 'rb') as file:
         sha1_hash = hashlib.sha1(file.read()).hexdigest()
-    with open('sha1.txt', 'w') as file:
+    with open('sha1.txt', 'w', encoding="utf-8") as file:
         file.write(sha1_hash)
 
 if __name__ == "__main__":
@@ -201,17 +204,17 @@ if __name__ == "__main__":
     os.chdir(os.path.dirname(os.path.realpath(__file__)))
     headers = {'User-Agent': 'dankware', 'Content-Type': 'application/zip'}
 
-    print(clr(f"\n  > Preparing..."))
+    print(clr("\n  > Preparing..."))
     prepare()
-    print(clr(f"\n  > Checking Downloaded Zips..."))
+    print(clr("\n  > Checking Downloaded Zips..."))
     download_zips()
-    print(clr(f"\n  > Extracting Zips...\n"))
+    print(clr("\n  > Extracting Zips...\n"))
     extract_zips()
-    print(clr(f"\n  > Copying and Overwriting Base..."))
+    print(clr("\n  > Copying and Overwriting Base..."))
     copy_and_overwrite("base", "dank.resource-pack")
-    print(clr(f"\n  > Cleaning Up..."))
+    print(clr("\n  > Cleaning Up..."))
     cleanup()
-    print(clr(f"\n  > Compressing to Zip...\n"))
+    print(clr("\n  > Compressing to Zip...\n"))
     compress_to_zip()
-    print(clr(f"\n  > Saving SHA-1...\n"))
+    print(clr("\n  > Saving SHA-1...\n"))
     save_sha1()

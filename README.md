@@ -15,7 +15,6 @@
 
 - Minecraft music ( Slowed + Reverb ) > Youtube
 - [Corality](https://modrinth.com/resourcepack/corality)
-- [Fancy Glint](https://modrinth.com/resourcepack/fancy-glint)
 - [Particles+](https://modrinth.com/resourcepack/particles+)
 - [Among Us Undying Totem](https://www.planetminecraft.com/texture-pack/3d-sus-undying-totem/)
 - [Enhanced Audio (Sound Pack)](https://www.curseforge.com/minecraft/texture-packs/enhanced-audio)
@@ -30,6 +29,10 @@
 
 - [HardTop Vanillaccurate Pack x32](https://vanillaccurate.space/)
 - [Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves)
+
+## ♦️ Broken / Removed ♦️
+
+- [Fancy Glint](https://modrinth.com/resourcepack/fancy-glint)
 
 ## ♦️ Addon Pack Includes ♦️
 

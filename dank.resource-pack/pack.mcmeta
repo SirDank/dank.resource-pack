@@ -1,6 +1,7 @@
 {
   "pack": {
     "pack_format": 18,
-    "description": "\u00A7cdank\u00A7f.\u00A7cresource\u00A7f-\u00A7cpack \u00A7bv3.2.1\u00A7c by sir\u00A7f.\u00A7cdank"
+    "supported_formats": {"min_inclusive": 4, "max_inclusive": 99},
+    "description": "\u00A7cdank\u00A7f.\u00A7cresource\u00A7f-\u00A7cpack \u00A7bv3.2.2\u00A7c by sir\u00A7f.\u00A7cdank"
   }
 } 
