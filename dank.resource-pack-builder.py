@@ -14,8 +14,8 @@ from rich.progress import Progress, SpinnerColumn, BarColumn, TextColumn, TimeRe
 
 
 def prepare():
-    if not os.path.isdir("downloads"):
-        os.mkdir("downloads")
+    # if not os.path.isdir("downloads"):
+    #     os.mkdir("downloads")
 
     if os.path.isfile("dank.resource-pack.zip"):
         os.remove("dank.resource-pack.zip")
@@ -135,7 +135,7 @@ def copy_and_overwrite(src, dst):
 
 def extract_zips():
     global current_zip_file
-    for dir in ["downloads", "github", "github_ordered/1_audio", "github_ordered/2_textures"]:
+    for dir in ["unordered", "ordered/1_audio", "ordered/2_textures"]:
         for zip_file in sorted(os.listdir(dir)):
             current_zip_file = zip_file.rstrip(".zip")
             if os.path.isdir("tmp"):
